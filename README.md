@@ -1,7 +1,14 @@
-ProyectoFinal
+# Sistemas-Inteligentes/ProyectoFinal
+
 Descripción
 
 Este proyecto utiliza DeepFace, Whisper, MoviePy, Transformers y FFmpeg para realizar análisis facial y transcripción de audio de videos. El objetivo es procesar medios e interpretar información desde archivos de audio y video.
+
+- El sistema procesa video frame por frame y audio de forma independiente.
+- Los resultados se almacenan en CSV para facilitar análisis y visualización.
+- La visualización se realiza mediante inspección de resultados y gráficas externas.
+- El logging se maneja mediante mensajes de estado en consola.
+- La validación se realiza con videos propios grabados por el equipo.
 
 Requisitos
 
