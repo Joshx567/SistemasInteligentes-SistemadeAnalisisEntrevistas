@@ -1,0 +1,180 @@
+segundo,emocion_facial,emocion_texto,transcripcion,congruencia
+0,angry,neutral,"I used to think of the Ted audience as a wonderful collection of some of the most effective,",INCONGRUENCIA
+1,fear,neutral,"I used to think of the Ted audience as a wonderful collection of some of the most effective,",INCONGRUENCIA
+2,fear,neutral,"I used to think of the Ted audience as a wonderful collection of some of the most effective,",INCONGRUENCIA
+3,neutral,neutral,"I used to think of the Ted audience as a wonderful collection of some of the most effective,",Congruente
+4,sad,neutral,"I used to think of the Ted audience as a wonderful collection of some of the most effective,",INCONGRUENCIA
+5,angry,neutral,"I used to think of the Ted audience as a wonderful collection of some of the most effective,",INCONGRUENCIA
+6,neutral,neutral,"I used to think of the Ted audience as a wonderful collection of some of the most effective,",Congruente
+7,neutral,neutral,"I used to think of the Ted audience as a wonderful collection of some of the most effective,",Congruente
+8,fear,neutral,"I used to think of the Ted audience as a wonderful collection of some of the most effective,",INCONGRUENCIA
+9,neutral,neutral,"I used to think of the Ted audience as a wonderful collection of some of the most effective,",Congruente
+10,neutral,neutral,"I used to think of the Ted audience as a wonderful collection of some of the most effective,",Congruente
+11,surprise,neutral,"I used to think of the Ted audience as a wonderful collection of some of the most effective,",INCONGRUENCIA
+12,surprise,neutral,"I used to think of the Ted audience as a wonderful collection of some of the most effective,",INCONGRUENCIA
+13,surprise,neutral,"I used to think of the Ted audience as a wonderful collection of some of the most effective,",INCONGRUENCIA
+14,surprise,neutral,"I used to think of the Ted audience as a wonderful collection of some of the most effective,",INCONGRUENCIA
+15,surprise,neutral,"I used to think of the Ted audience as a wonderful collection of some of the most effective,",INCONGRUENCIA
+16,angry,neutral,"I used to think of the Ted audience as a wonderful collection of some of the most effective,",INCONGRUENCIA
+17,neutral,neutral,"I used to think of the Ted audience as a wonderful collection of some of the most effective,",Congruente
+18,neutral,neutral,"I used to think of the Ted audience as a wonderful collection of some of the most effective,",Congruente
+19,neutral,neutral,"I used to think of the Ted audience as a wonderful collection of some of the most effective,",Congruente
+20,neutral,neutral,"I used to think of the Ted audience as a wonderful collection of some of the most effective,",Congruente
+21,sad,neutral,"intelligent, intellectual, savvy, worldly, and innovative people in the world.",INCONGRUENCIA
+22,angry,neutral,"intelligent, intellectual, savvy, worldly, and innovative people in the world.",INCONGRUENCIA
+23,happy,neutral,"intelligent, intellectual, savvy, worldly, and innovative people in the world.",INCONGRUENCIA
+24,angry,neutral,"intelligent, intellectual, savvy, worldly, and innovative people in the world.",INCONGRUENCIA
+25,sad,neutral,"intelligent, intellectual, savvy, worldly, and innovative people in the world.",INCONGRUENCIA
+26,sad,neutral,And I think that's true.,INCONGRUENCIA
+27,neutral,neutral,And I think that's true.,Congruente
+28,neutral,neutral,"However, I also have reason to believe that many, if not most, are actually tying your shoes incorrectly.",Congruente
+29,sad,neutral,"However, I also have reason to believe that many, if not most, are actually tying your shoes incorrectly.",INCONGRUENCIA
+30,sad,neutral,"However, I also have reason to believe that many, if not most, are actually tying your shoes incorrectly.",INCONGRUENCIA
+31,sad,neutral,"However, I also have reason to believe that many, if not most, are actually tying your shoes incorrectly.",INCONGRUENCIA
+32,fear,neutral,"However, I also have reason to believe that many, if not most, are actually tying your shoes incorrectly.",INCONGRUENCIA
+33,happy,neutral,"However, I also have reason to believe that many, if not most, are actually tying your shoes incorrectly.",INCONGRUENCIA
+34,neutral,neutral,"However, I also have reason to believe that many, if not most, are actually tying your shoes incorrectly.",Congruente
+35,fear,neutral,"However, I also have reason to believe that many, if not most, are actually tying your shoes incorrectly.",INCONGRUENCIA
+36,fear,disgust,"Now, I know that seems ludicrous.",INCONGRUENCIA
+37,fear,disgust,"Now, I know that seems ludicrous.",INCONGRUENCIA
+38,sad,disgust,"Now, I know that seems ludicrous.",INCONGRUENCIA
+39,happy,disgust,I know that seems ludicrous.,INCONGRUENCIA
+40,neutral,disgust,I know that seems ludicrous.,INCONGRUENCIA
+41,fear,sadness,"And believe me, I lived the same sad life until about three years ago.",INCONGRUENCIA
+42,fear,sadness,"And believe me, I lived the same sad life until about three years ago.",INCONGRUENCIA
+43,neutral,sadness,"And believe me, I lived the same sad life until about three years ago.",INCONGRUENCIA
+44,happy,sadness,"And believe me, I lived the same sad life until about three years ago.",INCONGRUENCIA
+45,neutral,surprise,"And what happened to me was I bought what was for me a very expensive pair of shoes, but",INCONGRUENCIA
+46,neutral,surprise,"And what happened to me was I bought what was for me a very expensive pair of shoes, but",INCONGRUENCIA
+47,neutral,surprise,"And what happened to me was I bought what was for me a very expensive pair of shoes, but",INCONGRUENCIA
+48,fear,surprise,"And what happened to me was I bought what was for me a very expensive pair of shoes, but",INCONGRUENCIA
+49,fear,surprise,"And what happened to me was I bought what was for me a very expensive pair of shoes, but",INCONGRUENCIA
+50,fear,sadness,"those shoes came with round nylon laces, and I couldn't keep them tied.",INCONGRUENCIA
+51,fear,sadness,"those shoes came with round nylon laces, and I couldn't keep them tied.",INCONGRUENCIA
+52,fear,sadness,"those shoes came with round nylon laces, and I couldn't keep them tied.",INCONGRUENCIA
+53,fear,sadness,"those shoes came with round nylon laces, and I couldn't keep them tied.",INCONGRUENCIA
+54,angry,disgust,"So I went back to the store and said to the owner, I love the shoes, but I hate the laces.",INCONGRUENCIA
+55,fear,disgust,"So I went back to the store and said to the owner, I love the shoes, but I hate the laces.",INCONGRUENCIA
+56,fear,disgust,"So I went back to the store and said to the owner, I love the shoes, but I hate the laces.",INCONGRUENCIA
+57,neutral,disgust,"So I went back to the store and said to the owner, I love the shoes, but I hate the laces.",INCONGRUENCIA
+58,neutral,disgust,"So I went back to the store and said to the owner, I love the shoes, but I hate the laces.",INCONGRUENCIA
+59,sad,anger,"He took a look and said, oh, you're tying them wrong.",INCONGRUENCIA
+60,fear,anger,"He took a look and said, oh, you're tying them wrong.",INCONGRUENCIA
+61,fear,anger,"He took a look and said, oh, you're tying them wrong.",INCONGRUENCIA
+62,fear,neutral,"Now up until that moment, I would have thought that by age 50, one of the life skills that",INCONGRUENCIA
+63,sad,neutral,"Now up until that moment, I would have thought that by age 50, one of the life skills that",INCONGRUENCIA
+64,neutral,neutral,"Now up until that moment, I would have thought that by age 50, one of the life skills that",Congruente
+65,angry,neutral,"Now up until that moment, I would have thought that by age 50, one of the life skills that",INCONGRUENCIA
+66,neutral,neutral,"Now up until that moment, I would have thought that by age 50, one of the life skills that",Congruente
+67,sad,neutral,"Now up until that moment, I would have thought that by age 50, one of the life skills that",INCONGRUENCIA
+68,angry,neutral,I had really nailed was tying my shoes.,INCONGRUENCIA
+69,angry,neutral,I had really nailed was tying my shoes.,INCONGRUENCIA
+70,angry,neutral,I had really nailed was tying my shoes.,INCONGRUENCIA
+71,neutral,neutral,I had really nailed was tying my shoes.,Congruente
+72,neutral,neutral,"But not so, let me demonstrate.",Congruente
+73,sad,neutral,"But not so, let me demonstrate.",INCONGRUENCIA
+74,neutral,neutral,"But not so, let me demonstrate.",Congruente
+75,neutral,neutral,"But not so, let me demonstrate.",Congruente
+76,neutral,neutral,This is the way that most of us were taught to tie our shoes.,Congruente
+77,happy,neutral,This is the way that most of us were taught to tie our shoes.,INCONGRUENCIA
+78,sad,neutral,This is the way that most of us were taught to tie our shoes.,INCONGRUENCIA
+79,happy,neutral,This is the way that most of us were taught to tie our shoes.,INCONGRUENCIA
+80,happy,neutral,This is the way that most of us were taught to tie our shoes.,INCONGRUENCIA
+81,happy,neutral,This is the way that most of us were taught to tie our shoes.,INCONGRUENCIA
+82,sad,neutral,This is the way that most of us were taught to tie our shoes.,INCONGRUENCIA
+83,neutral,neutral,This is the way that most of us were taught to tie our shoes.,Congruente
+84,neutral,joy,"Now as it turns out, thank you.",INCONGRUENCIA
+85,neutral,joy,"Now as it turns out, thank you.",INCONGRUENCIA
+86,neutral,joy,"Now as it turns out, thank you.",INCONGRUENCIA
+87,neutral,neutral,What weight there's more?,Congruente
+88,neutral,neutral,What weight there's more?,Congruente
+89,neutral,neutral,"As it turns out, there's a strong form and a weak form of this knot.",Congruente
+90,neutral,neutral,"As it turns out, there's a strong form and a weak form of this knot.",Congruente
+91,neutral,neutral,"As it turns out, there's a strong form and a weak form of this knot.",Congruente
+92,neutral,neutral,"As it turns out, there's a strong form and a weak form of this knot.",Congruente
+93,neutral,neutral,"As it turns out, there's a strong form and a weak form of this knot.",Congruente
+94,neutral,neutral,And we were taught to tie the weak form.,Congruente
+95,angry,neutral,And we were taught to tie the weak form.,INCONGRUENCIA
+96,happy,neutral,And here's how to tell.,INCONGRUENCIA
+97,sad,neutral,"If you pull the strands at the base of the knot, you can see that the bow will orient itself",INCONGRUENCIA
+98,neutral,neutral,"If you pull the strands at the base of the knot, you can see that the bow will orient itself",Congruente
+99,neutral,neutral,"If you pull the strands at the base of the knot, you can see that the bow will orient itself",Congruente
+100,neutral,neutral,"If you pull the strands at the base of the knot, you can see that the bow will orient itself",Congruente
+101,neutral,neutral,"If you pull the strands at the base of the knot, you can see that the bow will orient itself",Congruente
+102,neutral,neutral,down the long axis of the shoe.,Congruente
+103,happy,neutral,down the long axis of the shoe.,INCONGRUENCIA
+104,fear,neutral,down the long axis of the shoe.,INCONGRUENCIA
+105,fear,neutral,That's the weak form of the knot.,INCONGRUENCIA
+106,fear,fear,But not to worry.,Congruente
+107,fear,fear,But not to worry.,Congruente
+108,fear,fear,But not to worry.,Congruente
+109,fear,neutral,"If we start over and simply go the other direction around the bow, we get this, the strong form",INCONGRUENCIA
+110,sad,neutral,"If we start over and simply go the other direction around the bow, we get this, the strong form",INCONGRUENCIA
+111,neutral,neutral,"If we start over and simply go the other direction around the bow, we get this, the strong form",Congruente
+112,neutral,neutral,"If we start over and simply go the other direction around the bow, we get this, the strong form",Congruente
+113,neutral,neutral,"If we start over and simply go the other direction around the bow, we get this, the strong form",Congruente
+114,sad,neutral,"If we start over and simply go the other direction around the bow, we get this, the strong form",INCONGRUENCIA
+115,neutral,neutral,"If we start over and simply go the other direction around the bow, we get this, the strong form",Congruente
+116,fear,neutral,"If we start over and simply go the other direction around the bow, we get this, the strong form",INCONGRUENCIA
+117,fear,neutral,of the knot.,INCONGRUENCIA
+118,fear,neutral,"And if you pull the cords under the knot, you will see that the bow orient itself along",INCONGRUENCIA
+119,neutral,neutral,"And if you pull the cords under the knot, you will see that the bow orient itself along",Congruente
+120,neutral,neutral,"And if you pull the cords under the knot, you will see that the bow orient itself along",Congruente
+121,neutral,neutral,"And if you pull the cords under the knot, you will see that the bow orient itself along",Congruente
+122,sad,neutral,"And if you pull the cords under the knot, you will see that the bow orient itself along",INCONGRUENCIA
+123,angry,neutral,the transverse axis of the shoe.,INCONGRUENCIA
+124,sad,neutral,the transverse axis of the shoe.,INCONGRUENCIA
+125,angry,neutral,the transverse axis of the shoe.,INCONGRUENCIA
+126,fear,neutral,This is a stronger knot.,INCONGRUENCIA
+127,sad,neutral,It will come untied less often.,INCONGRUENCIA
+128,fear,neutral,It will come untied less often.,INCONGRUENCIA
+129,neutral,neutral,It will let you down less.,Congruente
+130,fear,neutral,It will let you down less.,INCONGRUENCIA
+131,neutral,neutral,"And not only that, it looks better.",Congruente
+132,neutral,neutral,"And not only that, it looks better.",Congruente
+133,neutral,neutral,"And not only that, it looks better.",Congruente
+134,angry,neutral,We're going to do this one more time.,INCONGRUENCIA
+135,angry,neutral,We're going to do this one more time.,INCONGRUENCIA
+136,happy,neutral,We're going to do this one more time.,INCONGRUENCIA
+137,neutral,neutral,We're going to do this one more time.,Congruente
+138,happy,neutral,[Silencio],No aplicable
+139,angry,neutral,Start as usual.,INCONGRUENCIA
+140,sad,neutral,Start as usual.,INCONGRUENCIA
+141,fear,neutral,Start as usual.,INCONGRUENCIA
+142,sad,neutral,Start as usual.,INCONGRUENCIA
+143,sad,neutral,Go the other way around the loop.,INCONGRUENCIA
+144,sad,neutral,"This is a little hard for children, but I think you could handle it.",INCONGRUENCIA
+145,neutral,neutral,"This is a little hard for children, but I think you could handle it.",Congruente
+146,fear,neutral,"This is a little hard for children, but I think you could handle it.",INCONGRUENCIA
+147,fear,neutral,"This is a little hard for children, but I think you could handle it.",INCONGRUENCIA
+148,neutral,neutral,"This is a little hard for children, but I think you could handle it.",Congruente
+149,sad,neutral,"This is a little hard for children, but I think you could handle it.",INCONGRUENCIA
+150,neutral,neutral,Pull the knot.,Congruente
+151,fear,neutral,Pull the knot.,INCONGRUENCIA
+152,neutral,neutral,There it is.,Congruente
+153,fear,disgust,The strong form of the shoe knot.,INCONGRUENCIA
+154,fear,disgust,The strong form of the shoe knot.,INCONGRUENCIA
+155,sad,neutral,"Now in keeping with today's theme, I'd like to point out, and something you already know,",INCONGRUENCIA
+156,neutral,neutral,"Now in keeping with today's theme, I'd like to point out, and something you already know,",Congruente
+157,neutral,neutral,"Now in keeping with today's theme, I'd like to point out, and something you already know,",Congruente
+158,angry,neutral,"Now in keeping with today's theme, I'd like to point out, and something you already know,",INCONGRUENCIA
+159,angry,neutral,"Now in keeping with today's theme, I'd like to point out, and something you already know,",INCONGRUENCIA
+160,sad,neutral,"Now in keeping with today's theme, I'd like to point out, and something you already know,",INCONGRUENCIA
+161,neutral,neutral,"Now in keeping with today's theme, I'd like to point out, and something you already know,",Congruente
+162,neutral,joy,that sometimes a small advantage someplace in life can yield tremendous result someplace,INCONGRUENCIA
+163,neutral,joy,that sometimes a small advantage someplace in life can yield tremendous result someplace,INCONGRUENCIA
+164,fear,joy,that sometimes a small advantage someplace in life can yield tremendous result someplace,INCONGRUENCIA
+165,neutral,joy,that sometimes a small advantage someplace in life can yield tremendous result someplace,INCONGRUENCIA
+166,angry,joy,that sometimes a small advantage someplace in life can yield tremendous result someplace,INCONGRUENCIA
+167,angry,joy,that sometimes a small advantage someplace in life can yield tremendous result someplace,INCONGRUENCIA
+168,sad,neutral,else.,INCONGRUENCIA
+169,neutral,joy,Live long and prosper.,INCONGRUENCIA
+170,angry,neutral,[Silencio],No aplicable
+171,sad,neutral,[Silencio],No aplicable
+172,fear,neutral,[Silencio],No aplicable
+173,sad,neutral,[Silencio],No aplicable
+174,fear,neutral,[Silencio],No aplicable
+175,happy,neutral,[Silencio],No aplicable
+176,happy,neutral,[Silencio],No aplicable
+177,happy,neutral,[Silencio],No aplicable
+178,happy,neutral,[Silencio],No aplicable

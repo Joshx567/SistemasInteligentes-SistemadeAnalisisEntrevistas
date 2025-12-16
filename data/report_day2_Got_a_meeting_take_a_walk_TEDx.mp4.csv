@@ -1,0 +1,210 @@
+segundo,emocion_facial,emocion_texto,transcripcion,congruencia
+0,angry,anger,What you're doing right now at this very moment is killing you.,Congruente
+1,angry,anger,What you're doing right now at this very moment is killing you.,Congruente
+2,sad,anger,What you're doing right now at this very moment is killing you.,INCONGRUENCIA
+3,sad,anger,What you're doing right now at this very moment is killing you.,INCONGRUENCIA
+4,happy,anger,What you're doing right now at this very moment is killing you.,INCONGRUENCIA
+5,fear,anger,What you're doing right now at this very moment is killing you.,INCONGRUENCIA
+6,sad,anger,What you're doing right now at this very moment is killing you.,INCONGRUENCIA
+7,sad,anger,What you're doing right now at this very moment is killing you.,INCONGRUENCIA
+8,sad,anger,What you're doing right now at this very moment is killing you.,INCONGRUENCIA
+9,sad,anger,What you're doing right now at this very moment is killing you.,INCONGRUENCIA
+10,sad,anger,What you're doing right now at this very moment is killing you.,INCONGRUENCIA
+11,sad,anger,What you're doing right now at this very moment is killing you.,INCONGRUENCIA
+12,fear,anger,What you're doing right now at this very moment is killing you.,INCONGRUENCIA
+13,fear,anger,What you're doing right now at this very moment is killing you.,INCONGRUENCIA
+14,sad,anger,What you're doing right now at this very moment is killing you.,INCONGRUENCIA
+15,happy,anger,What you're doing right now at this very moment is killing you.,INCONGRUENCIA
+16,sad,anger,What you're doing right now at this very moment is killing you.,INCONGRUENCIA
+17,happy,anger,What you're doing right now at this very moment is killing you.,INCONGRUENCIA
+18,sad,anger,What you're doing right now at this very moment is killing you.,INCONGRUENCIA
+19,sad,anger,What you're doing right now at this very moment is killing you.,INCONGRUENCIA
+20,sad,anger,What you're doing right now at this very moment is killing you.,INCONGRUENCIA
+21,sad,neutral,"More than cars or the internet or even that little mobile device we keep talking about,",INCONGRUENCIA
+22,sad,neutral,"More than cars or the internet or even that little mobile device we keep talking about,",INCONGRUENCIA
+23,sad,neutral,"More than cars or the internet or even that little mobile device we keep talking about,",INCONGRUENCIA
+24,sad,neutral,"More than cars or the internet or even that little mobile device we keep talking about,",INCONGRUENCIA
+25,sad,neutral,"More than cars or the internet or even that little mobile device we keep talking about,",INCONGRUENCIA
+26,fear,neutral,"the technology you're using the most almost every day is this, your TUSH.",INCONGRUENCIA
+27,sad,neutral,"the technology you're using the most almost every day is this, your TUSH.",INCONGRUENCIA
+28,angry,neutral,"the technology you're using the most almost every day is this, your TUSH.",INCONGRUENCIA
+29,neutral,neutral,"the technology you're using the most almost every day is this, your TUSH.",Congruente
+30,neutral,neutral,"the technology you're using the most almost every day is this, your TUSH.",Congruente
+31,sad,neutral,"the technology you're using the most almost every day is this, your TUSH.",INCONGRUENCIA
+32,fear,neutral,"the technology you're using the most almost every day is this, your TUSH.",INCONGRUENCIA
+33,happy,neutral,"Nowadays people are sitting 9.3 hours a day, which is more than we're sleeping at 7.7 hours.",INCONGRUENCIA
+34,neutral,neutral,"Nowadays people are sitting 9.3 hours a day, which is more than we're sleeping at 7.7 hours.",Congruente
+35,happy,neutral,"Nowadays people are sitting 9.3 hours a day, which is more than we're sleeping at 7.7 hours.",INCONGRUENCIA
+36,neutral,neutral,"Nowadays people are sitting 9.3 hours a day, which is more than we're sleeping at 7.7 hours.",Congruente
+37,angry,neutral,"Nowadays people are sitting 9.3 hours a day, which is more than we're sleeping at 7.7 hours.",INCONGRUENCIA
+38,angry,neutral,"Nowadays people are sitting 9.3 hours a day, which is more than we're sleeping at 7.7 hours.",INCONGRUENCIA
+39,neutral,neutral,"Sitting is so incredibly prevalent, we don't even question how much we're doing it,",Congruente
+40,angry,neutral,"Sitting is so incredibly prevalent, we don't even question how much we're doing it,",INCONGRUENCIA
+41,angry,neutral,"Sitting is so incredibly prevalent, we don't even question how much we're doing it,",INCONGRUENCIA
+42,angry,neutral,"Sitting is so incredibly prevalent, we don't even question how much we're doing it,",INCONGRUENCIA
+43,angry,neutral,"and because everyone else is doing it, it doesn't even occur to us that it's not okay.",INCONGRUENCIA
+44,sad,neutral,"and because everyone else is doing it, it doesn't even occur to us that it's not okay.",INCONGRUENCIA
+45,angry,neutral,"and because everyone else is doing it, it doesn't even occur to us that it's not okay.",INCONGRUENCIA
+46,fear,neutral,"and because everyone else is doing it, it doesn't even occur to us that it's not okay.",INCONGRUENCIA
+47,angry,neutral,"and because everyone else is doing it, it doesn't even occur to us that it's not okay.",INCONGRUENCIA
+48,happy,neutral,"and because everyone else is doing it, it doesn't even occur to us that it's not okay.",INCONGRUENCIA
+49,fear,neutral,"In that way, sitting has become the smoking of our generation.",INCONGRUENCIA
+50,happy,neutral,"In that way, sitting has become the smoking of our generation.",INCONGRUENCIA
+51,sad,neutral,"In that way, sitting has become the smoking of our generation.",INCONGRUENCIA
+52,sad,neutral,"In that way, sitting has become the smoking of our generation.",INCONGRUENCIA
+53,sad,neutral,[Silencio],No aplicable
+54,sad,fear,"And of course there's health consequences to this, scary ones besides the waste.",INCONGRUENCIA
+55,neutral,fear,"And of course there's health consequences to this, scary ones besides the waste.",INCONGRUENCIA
+56,happy,fear,"And of course there's health consequences to this, scary ones besides the waste.",INCONGRUENCIA
+57,sad,fear,"And of course there's health consequences to this, scary ones besides the waste.",INCONGRUENCIA
+58,sad,fear,"And of course there's health consequences to this, scary ones besides the waste.",INCONGRUENCIA
+59,sad,neutral,"Things like breast cancer and colon cancer are directly tied to our lack of physical inactivity,",INCONGRUENCIA
+60,happy,neutral,"Things like breast cancer and colon cancer are directly tied to our lack of physical inactivity,",INCONGRUENCIA
+61,sad,neutral,"Things like breast cancer and colon cancer are directly tied to our lack of physical inactivity,",INCONGRUENCIA
+62,sad,neutral,"Things like breast cancer and colon cancer are directly tied to our lack of physical inactivity,",INCONGRUENCIA
+63,neutral,neutral,"Things like breast cancer and colon cancer are directly tied to our lack of physical inactivity,",Congruente
+64,happy,neutral,"Things like breast cancer and colon cancer are directly tied to our lack of physical inactivity,",INCONGRUENCIA
+65,sad,neutral,"Things like breast cancer and colon cancer are directly tied to our lack of physical inactivity,",INCONGRUENCIA
+66,sad,neutral,"Things like breast cancer and colon cancer are directly tied to our lack of physical inactivity,",INCONGRUENCIA
+67,sad,neutral,"10% in fact on both of those, 6% for heart disease, 7% for tied to diabetes,",INCONGRUENCIA
+68,sad,neutral,"10% in fact on both of those, 6% for heart disease, 7% for tied to diabetes,",INCONGRUENCIA
+69,sad,neutral,"10% in fact on both of those, 6% for heart disease, 7% for tied to diabetes,",INCONGRUENCIA
+70,sad,neutral,"10% in fact on both of those, 6% for heart disease, 7% for tied to diabetes,",INCONGRUENCIA
+71,sad,neutral,"10% in fact on both of those, 6% for heart disease, 7% for tied to diabetes,",INCONGRUENCIA
+72,sad,neutral,"10% in fact on both of those, 6% for heart disease, 7% for tied to diabetes,",INCONGRUENCIA
+73,fear,sadness,which is what my father died of. Now any of those stats should convince each of us to get off our,INCONGRUENCIA
+74,fear,sadness,which is what my father died of. Now any of those stats should convince each of us to get off our,INCONGRUENCIA
+75,fear,sadness,which is what my father died of. Now any of those stats should convince each of us to get off our,INCONGRUENCIA
+76,happy,sadness,which is what my father died of. Now any of those stats should convince each of us to get off our,INCONGRUENCIA
+77,angry,sadness,which is what my father died of. Now any of those stats should convince each of us to get off our,INCONGRUENCIA
+78,neutral,neutral,"deathmower, but if you're anything like me, it won't. What did get me moving was a social",Congruente
+79,angry,neutral,"deathmower, but if you're anything like me, it won't. What did get me moving was a social",INCONGRUENCIA
+80,angry,neutral,"deathmower, but if you're anything like me, it won't. What did get me moving was a social",INCONGRUENCIA
+81,sad,neutral,"deathmower, but if you're anything like me, it won't. What did get me moving was a social",INCONGRUENCIA
+82,sad,neutral,"deathmower, but if you're anything like me, it won't. What did get me moving was a social",INCONGRUENCIA
+83,sad,neutral,"deathmower, but if you're anything like me, it won't. What did get me moving was a social",INCONGRUENCIA
+84,sad,anger,interaction. Someone invited me to a meeting but couldn't manage to fit me into a regular,INCONGRUENCIA
+85,sad,anger,interaction. Someone invited me to a meeting but couldn't manage to fit me into a regular,INCONGRUENCIA
+86,sad,anger,interaction. Someone invited me to a meeting but couldn't manage to fit me into a regular,INCONGRUENCIA
+87,sad,anger,interaction. Someone invited me to a meeting but couldn't manage to fit me into a regular,INCONGRUENCIA
+88,sad,anger,interaction. Someone invited me to a meeting but couldn't manage to fit me into a regular,INCONGRUENCIA
+89,sad,neutral,"sort of conference room meeting and said, I have to walk my dogs tomorrow, could you come",INCONGRUENCIA
+90,sad,neutral,"sort of conference room meeting and said, I have to walk my dogs tomorrow, could you come",INCONGRUENCIA
+91,fear,neutral,"sort of conference room meeting and said, I have to walk my dogs tomorrow, could you come",INCONGRUENCIA
+92,sad,neutral,"sort of conference room meeting and said, I have to walk my dogs tomorrow, could you come",INCONGRUENCIA
+93,fear,neutral,"sort of conference room meeting and said, I have to walk my dogs tomorrow, could you come",INCONGRUENCIA
+94,fear,disgust,"to that? It's kind of odd to do. And actually that first meeting, I remember thinking I have",INCONGRUENCIA
+95,happy,disgust,"to that? It's kind of odd to do. And actually that first meeting, I remember thinking I have",INCONGRUENCIA
+96,happy,disgust,"to that? It's kind of odd to do. And actually that first meeting, I remember thinking I have",INCONGRUENCIA
+97,neutral,disgust,"to that? It's kind of odd to do. And actually that first meeting, I remember thinking I have",INCONGRUENCIA
+98,fear,disgust,"to that? It's kind of odd to do. And actually that first meeting, I remember thinking I have",INCONGRUENCIA
+99,neutral,anger,to be the one to ask the next question because I knew I was going to huff and puff during,INCONGRUENCIA
+100,sad,anger,to be the one to ask the next question because I knew I was going to huff and puff during,INCONGRUENCIA
+101,sad,anger,to be the one to ask the next question because I knew I was going to huff and puff during,INCONGRUENCIA
+102,fear,anger,to be the one to ask the next question because I knew I was going to huff and puff during,INCONGRUENCIA
+103,fear,anger,to be the one to ask the next question because I knew I was going to huff and puff during,INCONGRUENCIA
+104,fear,neutral,this conversation. And yet I've taken that idea and made it my own. So instead of going,INCONGRUENCIA
+105,fear,neutral,this conversation. And yet I've taken that idea and made it my own. So instead of going,INCONGRUENCIA
+106,sad,neutral,this conversation. And yet I've taken that idea and made it my own. So instead of going,INCONGRUENCIA
+107,sad,neutral,this conversation. And yet I've taken that idea and made it my own. So instead of going,INCONGRUENCIA
+108,sad,neutral,this conversation. And yet I've taken that idea and made it my own. So instead of going,INCONGRUENCIA
+109,sad,neutral,this conversation. And yet I've taken that idea and made it my own. So instead of going,INCONGRUENCIA
+110,neutral,fear,"to coffee meetings or a fluorescent lit conference room meetings, I asked people to go on a walking",INCONGRUENCIA
+111,sad,fear,"to coffee meetings or a fluorescent lit conference room meetings, I asked people to go on a walking",INCONGRUENCIA
+112,sad,fear,"to coffee meetings or a fluorescent lit conference room meetings, I asked people to go on a walking",INCONGRUENCIA
+113,sad,fear,"to coffee meetings or a fluorescent lit conference room meetings, I asked people to go on a walking",INCONGRUENCIA
+114,sad,fear,"to coffee meetings or a fluorescent lit conference room meetings, I asked people to go on a walking",INCONGRUENCIA
+115,sad,surprise,"meeting to the tune of 20 to 30 miles a week. It's changed my life. But before that, what actually",INCONGRUENCIA
+116,sad,surprise,"meeting to the tune of 20 to 30 miles a week. It's changed my life. But before that, what actually",INCONGRUENCIA
+117,sad,surprise,"meeting to the tune of 20 to 30 miles a week. It's changed my life. But before that, what actually",INCONGRUENCIA
+118,sad,surprise,"meeting to the tune of 20 to 30 miles a week. It's changed my life. But before that, what actually",INCONGRUENCIA
+119,sad,surprise,"meeting to the tune of 20 to 30 miles a week. It's changed my life. But before that, what actually",INCONGRUENCIA
+120,fear,surprise,"meeting to the tune of 20 to 30 miles a week. It's changed my life. But before that, what actually",INCONGRUENCIA
+121,fear,surprise,"meeting to the tune of 20 to 30 miles a week. It's changed my life. But before that, what actually",INCONGRUENCIA
+122,fear,surprise,"meeting to the tune of 20 to 30 miles a week. It's changed my life. But before that, what actually",INCONGRUENCIA
+123,fear,surprise,"meeting to the tune of 20 to 30 miles a week. It's changed my life. But before that, what actually",INCONGRUENCIA
+124,fear,surprise,"meeting to the tune of 20 to 30 miles a week. It's changed my life. But before that, what actually",INCONGRUENCIA
+125,sad,neutral,happened was I used to think about it as you could take care of your health or you could,INCONGRUENCIA
+126,sad,neutral,happened was I used to think about it as you could take care of your health or you could,INCONGRUENCIA
+127,happy,neutral,happened was I used to think about it as you could take care of your health or you could,INCONGRUENCIA
+128,sad,neutral,happened was I used to think about it as you could take care of your health or you could,INCONGRUENCIA
+129,fear,neutral,take care of obligations. And one always came at the cost of the other. So now several,INCONGRUENCIA
+130,neutral,neutral,take care of obligations. And one always came at the cost of the other. So now several,Congruente
+131,sad,neutral,take care of obligations. And one always came at the cost of the other. So now several,INCONGRUENCIA
+132,sad,neutral,take care of obligations. And one always came at the cost of the other. So now several,INCONGRUENCIA
+133,sad,neutral,take care of obligations. And one always came at the cost of the other. So now several,INCONGRUENCIA
+134,sad,neutral,take care of obligations. And one always came at the cost of the other. So now several,INCONGRUENCIA
+135,angry,neutral,"hundred of these walking meetings later, I've learned a few things. First, there's this",INCONGRUENCIA
+136,angry,neutral,"hundred of these walking meetings later, I've learned a few things. First, there's this",INCONGRUENCIA
+137,angry,neutral,"hundred of these walking meetings later, I've learned a few things. First, there's this",INCONGRUENCIA
+138,angry,neutral,"hundred of these walking meetings later, I've learned a few things. First, there's this",INCONGRUENCIA
+139,happy,neutral,"hundred of these walking meetings later, I've learned a few things. First, there's this",INCONGRUENCIA
+140,fear,surprise,"amazing thing about actually getting out of the box that leads to out of the box thinking,",INCONGRUENCIA
+141,happy,surprise,"amazing thing about actually getting out of the box that leads to out of the box thinking,",INCONGRUENCIA
+142,happy,surprise,"amazing thing about actually getting out of the box that leads to out of the box thinking,",INCONGRUENCIA
+143,neutral,surprise,"amazing thing about actually getting out of the box that leads to out of the box thinking,",INCONGRUENCIA
+144,sad,surprise,"amazing thing about actually getting out of the box that leads to out of the box thinking,",INCONGRUENCIA
+145,sad,surprise,"amazing thing about actually getting out of the box that leads to out of the box thinking,",INCONGRUENCIA
+146,sad,neutral,"whether it's nature or the exercise itself, it certainly works. And second and probably",INCONGRUENCIA
+147,sad,neutral,"whether it's nature or the exercise itself, it certainly works. And second and probably",INCONGRUENCIA
+148,sad,neutral,"whether it's nature or the exercise itself, it certainly works. And second and probably",INCONGRUENCIA
+149,sad,neutral,"whether it's nature or the exercise itself, it certainly works. And second and probably",INCONGRUENCIA
+150,neutral,neutral,"whether it's nature or the exercise itself, it certainly works. And second and probably",Congruente
+151,neutral,neutral,the more reflective one is just about how much each of us can hold problems in opposition.,Congruente
+152,neutral,neutral,the more reflective one is just about how much each of us can hold problems in opposition.,Congruente
+153,neutral,neutral,the more reflective one is just about how much each of us can hold problems in opposition.,Congruente
+154,neutral,neutral,the more reflective one is just about how much each of us can hold problems in opposition.,Congruente
+155,fear,neutral,the more reflective one is just about how much each of us can hold problems in opposition.,INCONGRUENCIA
+156,sad,neutral,the more reflective one is just about how much each of us can hold problems in opposition.,INCONGRUENCIA
+157,sad,neutral,the more reflective one is just about how much each of us can hold problems in opposition.,INCONGRUENCIA
+158,sad,neutral,And they're really not that way. And if we're going to solve problems and look at the,INCONGRUENCIA
+159,sad,neutral,And they're really not that way. And if we're going to solve problems and look at the,INCONGRUENCIA
+160,sad,neutral,And they're really not that way. And if we're going to solve problems and look at the,INCONGRUENCIA
+161,neutral,neutral,And they're really not that way. And if we're going to solve problems and look at the,Congruente
+162,sad,neutral,"world really differently, whether it's in governance or business or environmental issues,",INCONGRUENCIA
+163,angry,neutral,"world really differently, whether it's in governance or business or environmental issues,",INCONGRUENCIA
+164,angry,neutral,"world really differently, whether it's in governance or business or environmental issues,",INCONGRUENCIA
+165,sad,neutral,"world really differently, whether it's in governance or business or environmental issues,",INCONGRUENCIA
+166,sad,neutral,"world really differently, whether it's in governance or business or environmental issues,",INCONGRUENCIA
+167,sad,neutral,"job creation, maybe we can think about how to reframe those problems as having both things",INCONGRUENCIA
+168,sad,neutral,"job creation, maybe we can think about how to reframe those problems as having both things",INCONGRUENCIA
+169,fear,neutral,"job creation, maybe we can think about how to reframe those problems as having both things",INCONGRUENCIA
+170,fear,neutral,"job creation, maybe we can think about how to reframe those problems as having both things",INCONGRUENCIA
+171,fear,neutral,"job creation, maybe we can think about how to reframe those problems as having both things",INCONGRUENCIA
+172,sad,neutral,be true. Because it was when that happened with this walk-and-talk idea that things became,INCONGRUENCIA
+173,fear,neutral,be true. Because it was when that happened with this walk-and-talk idea that things became,INCONGRUENCIA
+174,neutral,neutral,be true. Because it was when that happened with this walk-and-talk idea that things became,Congruente
+175,angry,neutral,be true. Because it was when that happened with this walk-and-talk idea that things became,INCONGRUENCIA
+176,sad,neutral,be true. Because it was when that happened with this walk-and-talk idea that things became,INCONGRUENCIA
+177,sad,neutral,be true. Because it was when that happened with this walk-and-talk idea that things became,INCONGRUENCIA
+178,sad,neutral,"doable and sustainable and viable. So I started this talk talking about the tish, so I'll end",INCONGRUENCIA
+179,happy,neutral,"doable and sustainable and viable. So I started this talk talking about the tish, so I'll end",INCONGRUENCIA
+180,sad,neutral,"doable and sustainable and viable. So I started this talk talking about the tish, so I'll end",INCONGRUENCIA
+181,sad,neutral,"doable and sustainable and viable. So I started this talk talking about the tish, so I'll end",INCONGRUENCIA
+182,sad,neutral,"doable and sustainable and viable. So I started this talk talking about the tish, so I'll end",INCONGRUENCIA
+183,sad,surprise,with the bottom line. Which is walk-and-talk. Walk the talk. You'll be surprised at how fresh,INCONGRUENCIA
+184,fear,surprise,with the bottom line. Which is walk-and-talk. Walk the talk. You'll be surprised at how fresh,INCONGRUENCIA
+185,happy,surprise,with the bottom line. Which is walk-and-talk. Walk the talk. You'll be surprised at how fresh,INCONGRUENCIA
+186,fear,surprise,with the bottom line. Which is walk-and-talk. Walk the talk. You'll be surprised at how fresh,INCONGRUENCIA
+187,sad,surprise,with the bottom line. Which is walk-and-talk. Walk the talk. You'll be surprised at how fresh,INCONGRUENCIA
+188,happy,surprise,with the bottom line. Which is walk-and-talk. Walk the talk. You'll be surprised at how fresh,INCONGRUENCIA
+189,sad,surprise,with the bottom line. Which is walk-and-talk. Walk the talk. You'll be surprised at how fresh,INCONGRUENCIA
+190,fear,surprise,with the bottom line. Which is walk-and-talk. Walk the talk. You'll be surprised at how fresh,INCONGRUENCIA
+191,sad,neutral,"air drives fresh thinking. And in the way that you do, you'll bring into your life an entirely",INCONGRUENCIA
+192,sad,neutral,"air drives fresh thinking. And in the way that you do, you'll bring into your life an entirely",INCONGRUENCIA
+193,neutral,neutral,"air drives fresh thinking. And in the way that you do, you'll bring into your life an entirely",Congruente
+194,sad,neutral,"air drives fresh thinking. And in the way that you do, you'll bring into your life an entirely",INCONGRUENCIA
+195,fear,neutral,"air drives fresh thinking. And in the way that you do, you'll bring into your life an entirely",INCONGRUENCIA
+196,fear,joy,new set of ideas. Thank you.,INCONGRUENCIA
+197,fear,joy,new set of ideas. Thank you.,INCONGRUENCIA
+198,happy,joy,new set of ideas. Thank you.,Congruente
+199,sad,neutral,[Silencio],No aplicable
+200,sad,neutral,[Silencio],No aplicable
+201,sad,neutral,[Silencio],No aplicable
+202,angry,neutral,[Silencio],No aplicable
+203,happy,neutral,[Silencio],No aplicable
+204,neutral,neutral,[Silencio],No aplicable
+205,angry,neutral,[Silencio],No aplicable
+206,angry,neutral,[Silencio],No aplicable
+207,angry,neutral,[Silencio],No aplicable
+208,happy,neutral,[Silencio],No aplicable

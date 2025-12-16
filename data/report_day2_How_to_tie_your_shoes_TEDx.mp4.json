@@ -1,0 +1,1255 @@
+[
+  {
+    "segundo":0,
+    "emocion_facial":"angry",
+    "emocion_texto":"neutral",
+    "transcripcion":"I used to think of the Ted audience as a wonderful collection of some of the most effective,",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":1,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"I used to think of the Ted audience as a wonderful collection of some of the most effective,",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":2,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"I used to think of the Ted audience as a wonderful collection of some of the most effective,",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":3,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"I used to think of the Ted audience as a wonderful collection of some of the most effective,",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":4,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"I used to think of the Ted audience as a wonderful collection of some of the most effective,",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":5,
+    "emocion_facial":"angry",
+    "emocion_texto":"neutral",
+    "transcripcion":"I used to think of the Ted audience as a wonderful collection of some of the most effective,",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":6,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"I used to think of the Ted audience as a wonderful collection of some of the most effective,",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":7,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"I used to think of the Ted audience as a wonderful collection of some of the most effective,",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":8,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"I used to think of the Ted audience as a wonderful collection of some of the most effective,",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":9,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"I used to think of the Ted audience as a wonderful collection of some of the most effective,",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":10,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"I used to think of the Ted audience as a wonderful collection of some of the most effective,",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":11,
+    "emocion_facial":"surprise",
+    "emocion_texto":"neutral",
+    "transcripcion":"I used to think of the Ted audience as a wonderful collection of some of the most effective,",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":12,
+    "emocion_facial":"surprise",
+    "emocion_texto":"neutral",
+    "transcripcion":"I used to think of the Ted audience as a wonderful collection of some of the most effective,",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":13,
+    "emocion_facial":"surprise",
+    "emocion_texto":"neutral",
+    "transcripcion":"I used to think of the Ted audience as a wonderful collection of some of the most effective,",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":14,
+    "emocion_facial":"surprise",
+    "emocion_texto":"neutral",
+    "transcripcion":"I used to think of the Ted audience as a wonderful collection of some of the most effective,",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":15,
+    "emocion_facial":"surprise",
+    "emocion_texto":"neutral",
+    "transcripcion":"I used to think of the Ted audience as a wonderful collection of some of the most effective,",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":16,
+    "emocion_facial":"angry",
+    "emocion_texto":"neutral",
+    "transcripcion":"I used to think of the Ted audience as a wonderful collection of some of the most effective,",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":17,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"I used to think of the Ted audience as a wonderful collection of some of the most effective,",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":18,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"I used to think of the Ted audience as a wonderful collection of some of the most effective,",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":19,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"I used to think of the Ted audience as a wonderful collection of some of the most effective,",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":20,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"I used to think of the Ted audience as a wonderful collection of some of the most effective,",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":21,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"intelligent, intellectual, savvy, worldly, and innovative people in the world.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":22,
+    "emocion_facial":"angry",
+    "emocion_texto":"neutral",
+    "transcripcion":"intelligent, intellectual, savvy, worldly, and innovative people in the world.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":23,
+    "emocion_facial":"happy",
+    "emocion_texto":"neutral",
+    "transcripcion":"intelligent, intellectual, savvy, worldly, and innovative people in the world.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":24,
+    "emocion_facial":"angry",
+    "emocion_texto":"neutral",
+    "transcripcion":"intelligent, intellectual, savvy, worldly, and innovative people in the world.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":25,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"intelligent, intellectual, savvy, worldly, and innovative people in the world.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":26,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"And I think that's true.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":27,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"And I think that's true.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":28,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"However, I also have reason to believe that many, if not most, are actually tying your shoes incorrectly.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":29,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"However, I also have reason to believe that many, if not most, are actually tying your shoes incorrectly.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":30,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"However, I also have reason to believe that many, if not most, are actually tying your shoes incorrectly.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":31,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"However, I also have reason to believe that many, if not most, are actually tying your shoes incorrectly.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":32,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"However, I also have reason to believe that many, if not most, are actually tying your shoes incorrectly.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":33,
+    "emocion_facial":"happy",
+    "emocion_texto":"neutral",
+    "transcripcion":"However, I also have reason to believe that many, if not most, are actually tying your shoes incorrectly.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":34,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"However, I also have reason to believe that many, if not most, are actually tying your shoes incorrectly.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":35,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"However, I also have reason to believe that many, if not most, are actually tying your shoes incorrectly.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":36,
+    "emocion_facial":"fear",
+    "emocion_texto":"disgust",
+    "transcripcion":"Now, I know that seems ludicrous.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":37,
+    "emocion_facial":"fear",
+    "emocion_texto":"disgust",
+    "transcripcion":"Now, I know that seems ludicrous.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":38,
+    "emocion_facial":"sad",
+    "emocion_texto":"disgust",
+    "transcripcion":"Now, I know that seems ludicrous.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":39,
+    "emocion_facial":"happy",
+    "emocion_texto":"disgust",
+    "transcripcion":"I know that seems ludicrous.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":40,
+    "emocion_facial":"neutral",
+    "emocion_texto":"disgust",
+    "transcripcion":"I know that seems ludicrous.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":41,
+    "emocion_facial":"fear",
+    "emocion_texto":"sadness",
+    "transcripcion":"And believe me, I lived the same sad life until about three years ago.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":42,
+    "emocion_facial":"fear",
+    "emocion_texto":"sadness",
+    "transcripcion":"And believe me, I lived the same sad life until about three years ago.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":43,
+    "emocion_facial":"neutral",
+    "emocion_texto":"sadness",
+    "transcripcion":"And believe me, I lived the same sad life until about three years ago.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":44,
+    "emocion_facial":"happy",
+    "emocion_texto":"sadness",
+    "transcripcion":"And believe me, I lived the same sad life until about three years ago.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":45,
+    "emocion_facial":"neutral",
+    "emocion_texto":"surprise",
+    "transcripcion":"And what happened to me was I bought what was for me a very expensive pair of shoes, but",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":46,
+    "emocion_facial":"neutral",
+    "emocion_texto":"surprise",
+    "transcripcion":"And what happened to me was I bought what was for me a very expensive pair of shoes, but",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":47,
+    "emocion_facial":"neutral",
+    "emocion_texto":"surprise",
+    "transcripcion":"And what happened to me was I bought what was for me a very expensive pair of shoes, but",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":48,
+    "emocion_facial":"fear",
+    "emocion_texto":"surprise",
+    "transcripcion":"And what happened to me was I bought what was for me a very expensive pair of shoes, but",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":49,
+    "emocion_facial":"fear",
+    "emocion_texto":"surprise",
+    "transcripcion":"And what happened to me was I bought what was for me a very expensive pair of shoes, but",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":50,
+    "emocion_facial":"fear",
+    "emocion_texto":"sadness",
+    "transcripcion":"those shoes came with round nylon laces, and I couldn't keep them tied.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":51,
+    "emocion_facial":"fear",
+    "emocion_texto":"sadness",
+    "transcripcion":"those shoes came with round nylon laces, and I couldn't keep them tied.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":52,
+    "emocion_facial":"fear",
+    "emocion_texto":"sadness",
+    "transcripcion":"those shoes came with round nylon laces, and I couldn't keep them tied.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":53,
+    "emocion_facial":"fear",
+    "emocion_texto":"sadness",
+    "transcripcion":"those shoes came with round nylon laces, and I couldn't keep them tied.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":54,
+    "emocion_facial":"angry",
+    "emocion_texto":"disgust",
+    "transcripcion":"So I went back to the store and said to the owner, I love the shoes, but I hate the laces.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":55,
+    "emocion_facial":"fear",
+    "emocion_texto":"disgust",
+    "transcripcion":"So I went back to the store and said to the owner, I love the shoes, but I hate the laces.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":56,
+    "emocion_facial":"fear",
+    "emocion_texto":"disgust",
+    "transcripcion":"So I went back to the store and said to the owner, I love the shoes, but I hate the laces.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":57,
+    "emocion_facial":"neutral",
+    "emocion_texto":"disgust",
+    "transcripcion":"So I went back to the store and said to the owner, I love the shoes, but I hate the laces.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":58,
+    "emocion_facial":"neutral",
+    "emocion_texto":"disgust",
+    "transcripcion":"So I went back to the store and said to the owner, I love the shoes, but I hate the laces.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":59,
+    "emocion_facial":"sad",
+    "emocion_texto":"anger",
+    "transcripcion":"He took a look and said, oh, you're tying them wrong.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":60,
+    "emocion_facial":"fear",
+    "emocion_texto":"anger",
+    "transcripcion":"He took a look and said, oh, you're tying them wrong.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":61,
+    "emocion_facial":"fear",
+    "emocion_texto":"anger",
+    "transcripcion":"He took a look and said, oh, you're tying them wrong.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":62,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"Now up until that moment, I would have thought that by age 50, one of the life skills that",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":63,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"Now up until that moment, I would have thought that by age 50, one of the life skills that",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":64,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"Now up until that moment, I would have thought that by age 50, one of the life skills that",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":65,
+    "emocion_facial":"angry",
+    "emocion_texto":"neutral",
+    "transcripcion":"Now up until that moment, I would have thought that by age 50, one of the life skills that",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":66,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"Now up until that moment, I would have thought that by age 50, one of the life skills that",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":67,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"Now up until that moment, I would have thought that by age 50, one of the life skills that",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":68,
+    "emocion_facial":"angry",
+    "emocion_texto":"neutral",
+    "transcripcion":"I had really nailed was tying my shoes.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":69,
+    "emocion_facial":"angry",
+    "emocion_texto":"neutral",
+    "transcripcion":"I had really nailed was tying my shoes.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":70,
+    "emocion_facial":"angry",
+    "emocion_texto":"neutral",
+    "transcripcion":"I had really nailed was tying my shoes.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":71,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"I had really nailed was tying my shoes.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":72,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"But not so, let me demonstrate.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":73,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"But not so, let me demonstrate.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":74,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"But not so, let me demonstrate.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":75,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"But not so, let me demonstrate.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":76,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"This is the way that most of us were taught to tie our shoes.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":77,
+    "emocion_facial":"happy",
+    "emocion_texto":"neutral",
+    "transcripcion":"This is the way that most of us were taught to tie our shoes.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":78,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"This is the way that most of us were taught to tie our shoes.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":79,
+    "emocion_facial":"happy",
+    "emocion_texto":"neutral",
+    "transcripcion":"This is the way that most of us were taught to tie our shoes.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":80,
+    "emocion_facial":"happy",
+    "emocion_texto":"neutral",
+    "transcripcion":"This is the way that most of us were taught to tie our shoes.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":81,
+    "emocion_facial":"happy",
+    "emocion_texto":"neutral",
+    "transcripcion":"This is the way that most of us were taught to tie our shoes.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":82,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"This is the way that most of us were taught to tie our shoes.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":83,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"This is the way that most of us were taught to tie our shoes.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":84,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"Now as it turns out, thank you.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":85,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"Now as it turns out, thank you.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":86,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"Now as it turns out, thank you.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":87,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"What weight there's more?",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":88,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"What weight there's more?",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":89,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"As it turns out, there's a strong form and a weak form of this knot.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":90,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"As it turns out, there's a strong form and a weak form of this knot.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":91,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"As it turns out, there's a strong form and a weak form of this knot.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":92,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"As it turns out, there's a strong form and a weak form of this knot.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":93,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"As it turns out, there's a strong form and a weak form of this knot.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":94,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"And we were taught to tie the weak form.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":95,
+    "emocion_facial":"angry",
+    "emocion_texto":"neutral",
+    "transcripcion":"And we were taught to tie the weak form.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":96,
+    "emocion_facial":"happy",
+    "emocion_texto":"neutral",
+    "transcripcion":"And here's how to tell.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":97,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"If you pull the strands at the base of the knot, you can see that the bow will orient itself",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":98,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"If you pull the strands at the base of the knot, you can see that the bow will orient itself",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":99,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"If you pull the strands at the base of the knot, you can see that the bow will orient itself",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":100,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"If you pull the strands at the base of the knot, you can see that the bow will orient itself",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":101,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"If you pull the strands at the base of the knot, you can see that the bow will orient itself",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":102,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"down the long axis of the shoe.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":103,
+    "emocion_facial":"happy",
+    "emocion_texto":"neutral",
+    "transcripcion":"down the long axis of the shoe.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":104,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"down the long axis of the shoe.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":105,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"That's the weak form of the knot.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":106,
+    "emocion_facial":"fear",
+    "emocion_texto":"fear",
+    "transcripcion":"But not to worry.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":107,
+    "emocion_facial":"fear",
+    "emocion_texto":"fear",
+    "transcripcion":"But not to worry.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":108,
+    "emocion_facial":"fear",
+    "emocion_texto":"fear",
+    "transcripcion":"But not to worry.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":109,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"If we start over and simply go the other direction around the bow, we get this, the strong form",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":110,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"If we start over and simply go the other direction around the bow, we get this, the strong form",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":111,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"If we start over and simply go the other direction around the bow, we get this, the strong form",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":112,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"If we start over and simply go the other direction around the bow, we get this, the strong form",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":113,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"If we start over and simply go the other direction around the bow, we get this, the strong form",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":114,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"If we start over and simply go the other direction around the bow, we get this, the strong form",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":115,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"If we start over and simply go the other direction around the bow, we get this, the strong form",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":116,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"If we start over and simply go the other direction around the bow, we get this, the strong form",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":117,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"of the knot.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":118,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"And if you pull the cords under the knot, you will see that the bow orient itself along",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":119,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"And if you pull the cords under the knot, you will see that the bow orient itself along",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":120,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"And if you pull the cords under the knot, you will see that the bow orient itself along",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":121,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"And if you pull the cords under the knot, you will see that the bow orient itself along",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":122,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"And if you pull the cords under the knot, you will see that the bow orient itself along",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":123,
+    "emocion_facial":"angry",
+    "emocion_texto":"neutral",
+    "transcripcion":"the transverse axis of the shoe.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":124,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"the transverse axis of the shoe.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":125,
+    "emocion_facial":"angry",
+    "emocion_texto":"neutral",
+    "transcripcion":"the transverse axis of the shoe.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":126,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"This is a stronger knot.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":127,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"It will come untied less often.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":128,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"It will come untied less often.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":129,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"It will let you down less.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":130,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"It will let you down less.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":131,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"And not only that, it looks better.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":132,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"And not only that, it looks better.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":133,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"And not only that, it looks better.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":134,
+    "emocion_facial":"angry",
+    "emocion_texto":"neutral",
+    "transcripcion":"We're going to do this one more time.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":135,
+    "emocion_facial":"angry",
+    "emocion_texto":"neutral",
+    "transcripcion":"We're going to do this one more time.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":136,
+    "emocion_facial":"happy",
+    "emocion_texto":"neutral",
+    "transcripcion":"We're going to do this one more time.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":137,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"We're going to do this one more time.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":138,
+    "emocion_facial":"happy",
+    "emocion_texto":"neutral",
+    "transcripcion":"[Silencio]",
+    "congruencia":"No aplicable"
+  },
+  {
+    "segundo":139,
+    "emocion_facial":"angry",
+    "emocion_texto":"neutral",
+    "transcripcion":"Start as usual.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":140,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"Start as usual.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":141,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"Start as usual.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":142,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"Start as usual.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":143,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"Go the other way around the loop.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":144,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"This is a little hard for children, but I think you could handle it.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":145,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"This is a little hard for children, but I think you could handle it.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":146,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"This is a little hard for children, but I think you could handle it.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":147,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"This is a little hard for children, but I think you could handle it.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":148,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"This is a little hard for children, but I think you could handle it.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":149,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"This is a little hard for children, but I think you could handle it.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":150,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"Pull the knot.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":151,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"Pull the knot.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":152,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"There it is.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":153,
+    "emocion_facial":"fear",
+    "emocion_texto":"disgust",
+    "transcripcion":"The strong form of the shoe knot.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":154,
+    "emocion_facial":"fear",
+    "emocion_texto":"disgust",
+    "transcripcion":"The strong form of the shoe knot.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":155,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"Now in keeping with today's theme, I'd like to point out, and something you already know,",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":156,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"Now in keeping with today's theme, I'd like to point out, and something you already know,",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":157,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"Now in keeping with today's theme, I'd like to point out, and something you already know,",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":158,
+    "emocion_facial":"angry",
+    "emocion_texto":"neutral",
+    "transcripcion":"Now in keeping with today's theme, I'd like to point out, and something you already know,",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":159,
+    "emocion_facial":"angry",
+    "emocion_texto":"neutral",
+    "transcripcion":"Now in keeping with today's theme, I'd like to point out, and something you already know,",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":160,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"Now in keeping with today's theme, I'd like to point out, and something you already know,",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":161,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"Now in keeping with today's theme, I'd like to point out, and something you already know,",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":162,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"that sometimes a small advantage someplace in life can yield tremendous result someplace",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":163,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"that sometimes a small advantage someplace in life can yield tremendous result someplace",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":164,
+    "emocion_facial":"fear",
+    "emocion_texto":"joy",
+    "transcripcion":"that sometimes a small advantage someplace in life can yield tremendous result someplace",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":165,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"that sometimes a small advantage someplace in life can yield tremendous result someplace",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":166,
+    "emocion_facial":"angry",
+    "emocion_texto":"joy",
+    "transcripcion":"that sometimes a small advantage someplace in life can yield tremendous result someplace",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":167,
+    "emocion_facial":"angry",
+    "emocion_texto":"joy",
+    "transcripcion":"that sometimes a small advantage someplace in life can yield tremendous result someplace",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":168,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"else.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":169,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"Live long and prosper.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":170,
+    "emocion_facial":"angry",
+    "emocion_texto":"neutral",
+    "transcripcion":"[Silencio]",
+    "congruencia":"No aplicable"
+  },
+  {
+    "segundo":171,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"[Silencio]",
+    "congruencia":"No aplicable"
+  },
+  {
+    "segundo":172,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"[Silencio]",
+    "congruencia":"No aplicable"
+  },
+  {
+    "segundo":173,
+    "emocion_facial":"sad",
+    "emocion_texto":"neutral",
+    "transcripcion":"[Silencio]",
+    "congruencia":"No aplicable"
+  },
+  {
+    "segundo":174,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"[Silencio]",
+    "congruencia":"No aplicable"
+  },
+  {
+    "segundo":175,
+    "emocion_facial":"happy",
+    "emocion_texto":"neutral",
+    "transcripcion":"[Silencio]",
+    "congruencia":"No aplicable"
+  },
+  {
+    "segundo":176,
+    "emocion_facial":"happy",
+    "emocion_texto":"neutral",
+    "transcripcion":"[Silencio]",
+    "congruencia":"No aplicable"
+  },
+  {
+    "segundo":177,
+    "emocion_facial":"happy",
+    "emocion_texto":"neutral",
+    "transcripcion":"[Silencio]",
+    "congruencia":"No aplicable"
+  },
+  {
+    "segundo":178,
+    "emocion_facial":"happy",
+    "emocion_texto":"neutral",
+    "transcripcion":"[Silencio]",
+    "congruencia":"No aplicable"
+  }
+]

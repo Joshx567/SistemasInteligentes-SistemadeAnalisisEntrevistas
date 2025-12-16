@@ -1,49 +1,75 @@
 import os
+import logging
 from src import media_processor, vision_module, audio_module, analysis_core
 
 def main():
-    # CONFIGURACIÓN
-    VIDEO_NAME = "1.mp4"
+    # ---------------- CONFIGURACIÓN ----------------
+    VIDEO_NAMES = ["How_to_tie_your_shoes_TEDx.mp4", "Try_something-new-for-30-days-TEDx.mp4", "Got_a_meeting_take_a_walk_TEDx.mp4"]  # videos PROPIOS
     BASE_DIR = "data"
-    VIDEO_PATH = os.path.join(BASE_DIR, "raw_videos", VIDEO_NAME)
-    
-    # Verificar si existe el video
-    if not os.path.exists(VIDEO_PATH):
-        print(f"ERROR: No se encuentra el video en {VIDEO_PATH}")
+    RAW_VIDEO_DIR = os.path.join(BASE_DIR, "raw_videos")
+    OUTPUT_DIR = BASE_DIR
+
+    # ---------------- VALIDACIÓN DE INPUT ----------------
+    missing_videos = []
+
+    for video_name in VIDEO_NAMES:
+        video_path = os.path.join(RAW_VIDEO_DIR, video_name)
+        if not os.path.exists(video_path):
+            missing_videos.append(video_name)
+
+    if missing_videos:
+        logging.error("No se encontraron los siguientes videos:")
+        for v in missing_videos:
+            logging.error(f" - {v}")
+        logging.error("Corrige los archivos antes de ejecutar el sistema.")
         return
 
-    print("=== INICIANDO SISTEMA DE ANÁLISIS DE ENTREVISTAS ===")
+    # ---------------- LOGGING ----------------
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(asctime)s - %(levelname)s - %(message)s"
+    )
 
-    # PASO 1: Procesamiento de Medios (Día 1)
-    print("\n[1/5] Extrayendo frames y audio...")
-    audio_path, frames_folder = media_processor.extract_media(VIDEO_PATH, BASE_DIR)
-    
-    # PASO 2: Análisis Visual (Día 2)
-    print("\n[2/5] Analizando expresiones faciales (DeepFace)...")
-    df_video = vision_module.analyze_faces(frames_folder)
-    print(f"   -> Frames analizados: {len(df_video)}")
+    logging.info("=== INICIANDO SISTEMA DE ANÁLISIS DE ENTREVISTAS ===")
 
-    # PASO 3: Análisis de Audio y Texto (Día 2)
-    print("\n[3/5] Transcribiendo y analizando sentimiento del texto (Whisper + Transformers)...")
-    df_audio = audio_module.analyze_audio(audio_path)
-    print(f"   -> Segmentos de texto detectados: {len(df_audio)}")
+    # ---------------- PROCESAR CADA VIDEO ----------------
+    for video_name in VIDEO_NAMES:
+        video_path = os.path.join(RAW_VIDEO_DIR, video_name)
 
-    # PASO 4: Integración Multimodal (Día 3)
-    print("\n[4/5] Sincronizando y fusionando datos...")
-    df_integrated = analysis_core.synchronize_data(df_video, df_audio)
+        if not os.path.exists(video_path):
+            logging.warning(f"Video no encontrado: {video_name}")
+            continue
 
-    # PASO 5: Generación de Insights (Día 4)
-    print("\n[5/5] Generando reporte de congruencia...")
-    final_report = analysis_core.calculate_congruence(df_integrated)
+        logging.info(f"Procesando video: {video_name}")
 
-    # RESULTADOS
-    output_csv = os.path.join(BASE_DIR, "reporte_final.csv")
-    final_report.to_csv(output_csv, index=False)
-    
-    print("\n" + "="*50)
-    print(f"¡ÉXITO! Reporte generado en: {output_csv}")
-    print("="*50)
-    print(final_report[['segundo', 'emocion_facial', 'emocion_texto', 'congruencia']].head(10))
+        # PASO 1: Procesamiento de medios
+        audio_path, frames_folder = media_processor.extract_media(video_path, BASE_DIR, video_name)
+
+        # PASO 2: Análisis facial
+        df_video = vision_module.analyze_faces(frames_folder)
+        logging.info(f"Frames analizados: {len(df_video)}")
+
+        # PASO 3: Audio + texto
+        df_audio = audio_module.analyze_audio(audio_path)
+        logging.info(f"Segmentos de audio detectados: {len(df_audio)}")
+
+        # PASO 4: Integración
+        df_integrated = analysis_core.synchronize_data(df_video, df_audio)
+
+        # PASO 5: Congruencia
+        final_report = analysis_core.calculate_congruence(df_integrated)
+
+        # ---------------- SALIDAS ----------------
+        csv_path = os.path.join(OUTPUT_DIR, f"report_day2_{video_name}.csv")
+        json_path = os.path.join(OUTPUT_DIR, f"report_day2_{video_name}.json")
+
+        final_report.to_csv(csv_path, index=False)
+        final_report.to_json(json_path, orient="records", indent=2)
+
+        logging.info(f"Reporte generado: {csv_path}")
+        logging.info(f"Reporte JSON generado: {json_path}")
+
+    logging.info("=== PROCESAMIENTO FINALIZADO ===")
 
 if __name__ == "__main__":
     main()
