@@ -4,8 +4,8 @@ from moviepy import VideoFileClip
 
 def extract_media(video_path, output_base, video_name):
     # Crear carpetas separadas por video
-    frames_dir = os.path.join(output_base, "processed_frames", video_name)
-    audio_dir = os.path.join(output_base, "processed_audio", video_name)
+    frames_dir = os.path.join(output_base, "processed_frames\dia3", video_name)
+    audio_dir = os.path.join(output_base, "processed_audio\dia3", video_name)
     os.makedirs(frames_dir, exist_ok=True)
     os.makedirs(audio_dir, exist_ok=True)
 

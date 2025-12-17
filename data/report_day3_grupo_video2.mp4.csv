@@ -1,0 +1,28 @@
+segundo,emocion_facial,emocion_texto,transcripcion,congruencia
+0,surprise,neutral,"Hello, I'm speaking directly to the camera right now.",INCONGRUENCIA
+1,neutral,neutral,"Hello, I'm speaking directly to the camera right now.",Congruente
+2,fear,neutral,"Hello, I'm speaking directly to the camera right now.",INCONGRUENCIA
+3,neutral,neutral,"Hello, I'm speaking directly to the camera right now.",Congruente
+4,surprise,neutral,"Hello, I'm speaking directly to the camera right now.",INCONGRUENCIA
+5,neutral,joy,I feel comfortable and I'm ready to begin.,INCONGRUENCIA
+6,neutral,joy,I feel comfortable and I'm ready to begin.,INCONGRUENCIA
+7,surprise,joy,I feel comfortable and I'm ready to begin.,INCONGRUENCIA
+8,angry,joy,I feel comfortable and I'm ready to begin.,INCONGRUENCIA
+9,neutral,disgust,And I'm taking care full of all my worst of speaking.,INCONGRUENCIA
+10,neutral,disgust,And I'm taking care full of all my worst of speaking.,INCONGRUENCIA
+11,neutral,disgust,And I'm taking care full of all my worst of speaking.,INCONGRUENCIA
+12,sad,disgust,And I'm taking care full of all my worst of speaking.,INCONGRUENCIA
+13,neutral,fear,Sometimes I feel confused when things are difficult.,INCONGRUENCIA
+14,surprise,fear,Sometimes I feel confused when things are difficult.,INCONGRUENCIA
+15,neutral,fear,Sometimes I feel confused when things are difficult.,INCONGRUENCIA
+16,surprise,fear,Sometimes I feel confused when things are difficult.,INCONGRUENCIA
+17,neutral,fear,Sometimes I feel confused when things are difficult.,INCONGRUENCIA
+18,surprise,joy,Would I take a deep breath and I feel calm?,INCONGRUENCIA
+19,neutral,joy,Would I take a deep breath and I feel calm?,INCONGRUENCIA
+20,neutral,joy,Would I take a deep breath and I feel calm?,INCONGRUENCIA
+21,angry,joy,Would I take a deep breath and I feel calm?,INCONGRUENCIA
+22,neutral,joy,"Now I feel confident again, thank you for listening.",INCONGRUENCIA
+23,neutral,joy,"Now I feel confident again, thank you for listening.",INCONGRUENCIA
+24,happy,joy,"Now I feel confident again, thank you for listening.",Congruente
+25,neutral,joy,"Now I feel confident again, thank you for listening.",INCONGRUENCIA
+26,neutral,neutral,[Silencio],No aplicable

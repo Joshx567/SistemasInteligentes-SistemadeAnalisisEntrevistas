@@ -1,0 +1,39 @@
+segundo,emocion_facial,emocion_texto,transcripcion,congruencia
+0,neutral,sadness,"Hello, I would like to take a moment to reflect on how I'm feeling today.",INCONGRUENCIA
+1,surprise,sadness,"Hello, I would like to take a moment to reflect on how I'm feeling today.",INCONGRUENCIA
+2,surprise,sadness,"Hello, I would like to take a moment to reflect on how I'm feeling today.",INCONGRUENCIA
+3,happy,sadness,"Hello, I would like to take a moment to reflect on how I'm feeling today.",INCONGRUENCIA
+4,surprise,sadness,"Hello, I would like to take a moment to reflect on how I'm feeling today.",INCONGRUENCIA
+5,neutral,sadness,"Hello, I would like to take a moment to reflect on how I'm feeling today.",INCONGRUENCIA
+6,surprise,fear,"As I speak, I'm carefully choosing my words and organizing my doubts.",INCONGRUENCIA
+7,surprise,fear,"As I speak, I'm carefully choosing my words and organizing my doubts.",INCONGRUENCIA
+8,surprise,fear,"As I speak, I'm carefully choosing my words and organizing my doubts.",INCONGRUENCIA
+9,surprise,fear,"As I speak, I'm carefully choosing my words and organizing my doubts.",INCONGRUENCIA
+10,neutral,fear,"As I speak, I'm carefully choosing my words and organizing my doubts.",INCONGRUENCIA
+11,surprise,sadness,"Earlier, I feel over him by responsibilities and expectations.",INCONGRUENCIA
+12,neutral,sadness,"Earlier, I feel over him by responsibilities and expectations.",INCONGRUENCIA
+13,neutral,sadness,"Earlier, I feel over him by responsibilities and expectations.",INCONGRUENCIA
+14,surprise,sadness,"Earlier, I feel over him by responsibilities and expectations.",INCONGRUENCIA
+15,surprise,sadness,"Earlier, I feel over him by responsibilities and expectations.",INCONGRUENCIA
+16,neutral,sadness,"Earlier, I feel over him by responsibilities and expectations.",INCONGRUENCIA
+17,neutral,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",Congruente
+18,happy,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",INCONGRUENCIA
+19,surprise,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",INCONGRUENCIA
+20,surprise,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",INCONGRUENCIA
+21,fear,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",INCONGRUENCIA
+22,neutral,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",Congruente
+23,neutral,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",Congruente
+24,neutral,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",Congruente
+25,surprise,neutral,"After taking some time to power some breath, I feel more balance and focus.",INCONGRUENCIA
+26,angry,neutral,"After taking some time to power some breath, I feel more balance and focus.",INCONGRUENCIA
+27,surprise,neutral,"After taking some time to power some breath, I feel more balance and focus.",INCONGRUENCIA
+28,angry,neutral,"After taking some time to power some breath, I feel more balance and focus.",INCONGRUENCIA
+29,neutral,neutral,"After taking some time to power some breath, I feel more balance and focus.",Congruente
+30,neutral,joy,"Right now, I feel composed, and ready to move forward with clarity.",INCONGRUENCIA
+31,surprise,joy,"Right now, I feel composed, and ready to move forward with clarity.",INCONGRUENCIA
+32,neutral,joy,"Right now, I feel composed, and ready to move forward with clarity.",INCONGRUENCIA
+33,neutral,joy,"Right now, I feel composed, and ready to move forward with clarity.",INCONGRUENCIA
+34,neutral,joy,"Right now, I feel composed, and ready to move forward with clarity.",INCONGRUENCIA
+35,neutral,joy,"Right now, I feel composed, and ready to move forward with clarity.",INCONGRUENCIA
+36,surprise,joy,"Right now, I feel composed, and ready to move forward with clarity.",INCONGRUENCIA
+37,neutral,neutral,[Silencio],No aplicable

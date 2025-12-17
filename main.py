@@ -4,9 +4,9 @@ from src import media_processor, vision_module, audio_module, analysis_core
 
 def main():
     # ---------------- CONFIGURACIÓN ----------------
-    VIDEO_NAMES = ["How_to_tie_your_shoes_TEDx.mp4", "Try_something-new-for-30-days-TEDx.mp4", "Got_a_meeting_take_a_walk_TEDx.mp4"]  # videos PROPIOS
+    VIDEO_NAMES = ["grupo_video1.mp4", "grupo_video2.mp4", "grupo_video3.mp4"]  # videos PROPIOS
     BASE_DIR = "data"
-    RAW_VIDEO_DIR = os.path.join(BASE_DIR, "raw_videos")
+    RAW_VIDEO_DIR = os.path.join(BASE_DIR, "raw_videos\dia3")
     OUTPUT_DIR = BASE_DIR
 
     # ---------------- VALIDACIÓN DE INPUT ----------------
@@ -60,8 +60,8 @@ def main():
         final_report = analysis_core.calculate_congruence(df_integrated)
 
         # ---------------- SALIDAS ----------------
-        csv_path = os.path.join(OUTPUT_DIR, f"report_day2_{video_name}.csv")
-        json_path = os.path.join(OUTPUT_DIR, f"report_day2_{video_name}.json")
+        csv_path = os.path.join(OUTPUT_DIR, f"report_day3_{video_name}.csv")
+        json_path = os.path.join(OUTPUT_DIR, f"report_day3_{video_name}.json")
 
         final_report.to_csv(csv_path, index=False)
         final_report.to_json(json_path, orient="records", indent=2)

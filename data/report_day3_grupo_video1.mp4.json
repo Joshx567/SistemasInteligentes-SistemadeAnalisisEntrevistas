@@ -1,0 +1,268 @@
+[
+  {
+    "segundo":0,
+    "emocion_facial":"neutral",
+    "emocion_texto":"sadness",
+    "transcripcion":"Hello, I would like to take a moment to reflect on how I'm feeling today.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":1,
+    "emocion_facial":"surprise",
+    "emocion_texto":"sadness",
+    "transcripcion":"Hello, I would like to take a moment to reflect on how I'm feeling today.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":2,
+    "emocion_facial":"surprise",
+    "emocion_texto":"sadness",
+    "transcripcion":"Hello, I would like to take a moment to reflect on how I'm feeling today.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":3,
+    "emocion_facial":"happy",
+    "emocion_texto":"sadness",
+    "transcripcion":"Hello, I would like to take a moment to reflect on how I'm feeling today.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":4,
+    "emocion_facial":"surprise",
+    "emocion_texto":"sadness",
+    "transcripcion":"Hello, I would like to take a moment to reflect on how I'm feeling today.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":5,
+    "emocion_facial":"neutral",
+    "emocion_texto":"sadness",
+    "transcripcion":"Hello, I would like to take a moment to reflect on how I'm feeling today.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":6,
+    "emocion_facial":"surprise",
+    "emocion_texto":"fear",
+    "transcripcion":"As I speak, I'm carefully choosing my words and organizing my doubts.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":7,
+    "emocion_facial":"surprise",
+    "emocion_texto":"fear",
+    "transcripcion":"As I speak, I'm carefully choosing my words and organizing my doubts.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":8,
+    "emocion_facial":"surprise",
+    "emocion_texto":"fear",
+    "transcripcion":"As I speak, I'm carefully choosing my words and organizing my doubts.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":9,
+    "emocion_facial":"surprise",
+    "emocion_texto":"fear",
+    "transcripcion":"As I speak, I'm carefully choosing my words and organizing my doubts.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":10,
+    "emocion_facial":"neutral",
+    "emocion_texto":"fear",
+    "transcripcion":"As I speak, I'm carefully choosing my words and organizing my doubts.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":11,
+    "emocion_facial":"surprise",
+    "emocion_texto":"sadness",
+    "transcripcion":"Earlier, I feel over him by responsibilities and expectations.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":12,
+    "emocion_facial":"neutral",
+    "emocion_texto":"sadness",
+    "transcripcion":"Earlier, I feel over him by responsibilities and expectations.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":13,
+    "emocion_facial":"neutral",
+    "emocion_texto":"sadness",
+    "transcripcion":"Earlier, I feel over him by responsibilities and expectations.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":14,
+    "emocion_facial":"surprise",
+    "emocion_texto":"sadness",
+    "transcripcion":"Earlier, I feel over him by responsibilities and expectations.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":15,
+    "emocion_facial":"surprise",
+    "emocion_texto":"sadness",
+    "transcripcion":"Earlier, I feel over him by responsibilities and expectations.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":16,
+    "emocion_facial":"neutral",
+    "emocion_texto":"sadness",
+    "transcripcion":"Earlier, I feel over him by responsibilities and expectations.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":17,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"However, I realized that challenges of the health boost growth and understand ourselves better.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":18,
+    "emocion_facial":"happy",
+    "emocion_texto":"neutral",
+    "transcripcion":"However, I realized that challenges of the health boost growth and understand ourselves better.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":19,
+    "emocion_facial":"surprise",
+    "emocion_texto":"neutral",
+    "transcripcion":"However, I realized that challenges of the health boost growth and understand ourselves better.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":20,
+    "emocion_facial":"surprise",
+    "emocion_texto":"neutral",
+    "transcripcion":"However, I realized that challenges of the health boost growth and understand ourselves better.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":21,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"However, I realized that challenges of the health boost growth and understand ourselves better.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":22,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"However, I realized that challenges of the health boost growth and understand ourselves better.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":23,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"However, I realized that challenges of the health boost growth and understand ourselves better.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":24,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"However, I realized that challenges of the health boost growth and understand ourselves better.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":25,
+    "emocion_facial":"surprise",
+    "emocion_texto":"neutral",
+    "transcripcion":"After taking some time to power some breath, I feel more balance and focus.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":26,
+    "emocion_facial":"angry",
+    "emocion_texto":"neutral",
+    "transcripcion":"After taking some time to power some breath, I feel more balance and focus.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":27,
+    "emocion_facial":"surprise",
+    "emocion_texto":"neutral",
+    "transcripcion":"After taking some time to power some breath, I feel more balance and focus.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":28,
+    "emocion_facial":"angry",
+    "emocion_texto":"neutral",
+    "transcripcion":"After taking some time to power some breath, I feel more balance and focus.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":29,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"After taking some time to power some breath, I feel more balance and focus.",
+    "congruencia":"Congruente"
+  },
+  {
+    "segundo":30,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"Right now, I feel composed, and ready to move forward with clarity.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":31,
+    "emocion_facial":"surprise",
+    "emocion_texto":"joy",
+    "transcripcion":"Right now, I feel composed, and ready to move forward with clarity.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":32,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"Right now, I feel composed, and ready to move forward with clarity.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":33,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"Right now, I feel composed, and ready to move forward with clarity.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":34,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"Right now, I feel composed, and ready to move forward with clarity.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":35,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"Right now, I feel composed, and ready to move forward with clarity.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":36,
+    "emocion_facial":"surprise",
+    "emocion_texto":"joy",
+    "transcripcion":"Right now, I feel composed, and ready to move forward with clarity.",
+    "congruencia":"INCONGRUENCIA"
+  },
+  {
+    "segundo":37,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"[Silencio]",
+    "congruencia":"No aplicable"
+  }
+]

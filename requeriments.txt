@@ -1,12 +1,12 @@
 opencv-python
 deepface
-transformers
 torch
-openai-whisper
 pandas
 moviepy
-tf-keras
 scipy
 openpyxl
 imageio 
 tensorflow
+tf-keras
+transformers
+whisper

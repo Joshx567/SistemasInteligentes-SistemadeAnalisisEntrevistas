@@ -1,0 +1,28 @@
+segundo,emocion_facial,emocion_texto,transcripcion,congruencia
+0,fear,neutral,"Hello, I am standing here to talk about my day.",INCONGRUENCIA
+1,surprise,neutral,"Hello, I am standing here to talk about my day.",INCONGRUENCIA
+2,surprise,neutral,"Hello, I am standing here to talk about my day.",INCONGRUENCIA
+3,surprise,neutral,"Hello, I am standing here to talk about my day.",INCONGRUENCIA
+4,surprise,neutral,"Hello, I am standing here to talk about my day.",INCONGRUENCIA
+5,surprise,joy,This morning I feel happy when I saw the sun.,INCONGRUENCIA
+6,surprise,joy,This morning I feel happy when I saw the sun.,INCONGRUENCIA
+7,surprise,joy,This morning I feel happy when I saw the sun.,INCONGRUENCIA
+8,neutral,anger,At school I had a lot of work and I feel stressed.,INCONGRUENCIA
+9,neutral,anger,At school I had a lot of work and I feel stressed.,INCONGRUENCIA
+10,surprise,anger,At school I had a lot of work and I feel stressed.,INCONGRUENCIA
+11,surprise,anger,At school I had a lot of work and I feel stressed.,INCONGRUENCIA
+12,neutral,surprise,Then something unexpected happened and I was surprised.,INCONGRUENCIA
+13,neutral,surprise,Then something unexpected happened and I was surprised.,INCONGRUENCIA
+14,surprise,surprise,Then something unexpected happened and I was surprised.,Congruente
+15,surprise,surprise,Then something unexpected happened and I was surprised.,Congruente
+16,surprise,joy,Later I listened to music and I feel calm again.,INCONGRUENCIA
+17,neutral,joy,Later I listened to music and I feel calm again.,INCONGRUENCIA
+18,surprise,joy,Later I listened to music and I feel calm again.,INCONGRUENCIA
+19,fear,joy,Later I listened to music and I feel calm again.,INCONGRUENCIA
+20,neutral,joy,Now I feel good and ready for tomorrow.,INCONGRUENCIA
+21,neutral,joy,Now I feel good and ready for tomorrow.,INCONGRUENCIA
+22,neutral,joy,Now I feel good and ready for tomorrow.,INCONGRUENCIA
+23,neutral,joy,Now I feel good and ready for tomorrow.,INCONGRUENCIA
+24,neutral,joy,Now I feel good and ready for tomorrow.,INCONGRUENCIA
+25,neutral,disgust,This is the end.,INCONGRUENCIA
+26,neutral,disgust,This is the end.,INCONGRUENCIA
