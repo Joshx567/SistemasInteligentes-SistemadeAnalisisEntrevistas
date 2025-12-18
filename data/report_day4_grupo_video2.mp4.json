@@ -1,0 +1,218 @@
+[
+  {
+    "segundo":0,
+    "emocion_facial":"surprise",
+    "emocion_texto":"neutral",
+    "transcripcion":"Hello, I'm speaking directly to the camera right now.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Inicio"
+  },
+  {
+    "segundo":1,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"Hello, I'm speaking directly to the camera right now.",
+    "congruencia":"Congruente",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":2,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"Hello, I'm speaking directly to the camera right now.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":3,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"Hello, I'm speaking directly to the camera right now.",
+    "congruencia":"Congruente",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":4,
+    "emocion_facial":"surprise",
+    "emocion_texto":"neutral",
+    "transcripcion":"Hello, I'm speaking directly to the camera right now.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":5,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"I feel comfortable and I'm ready to begin.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":6,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"I feel comfortable and I'm ready to begin.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Estable"
+  },
+  {
+    "segundo":7,
+    "emocion_facial":"surprise",
+    "emocion_texto":"joy",
+    "transcripcion":"I feel comfortable and I'm ready to begin.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":8,
+    "emocion_facial":"angry",
+    "emocion_texto":"joy",
+    "transcripcion":"I feel comfortable and I'm ready to begin.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":9,
+    "emocion_facial":"neutral",
+    "emocion_texto":"disgust",
+    "transcripcion":"And I'm taking care full of all my worst of speaking.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":10,
+    "emocion_facial":"neutral",
+    "emocion_texto":"disgust",
+    "transcripcion":"And I'm taking care full of all my worst of speaking.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Estable"
+  },
+  {
+    "segundo":11,
+    "emocion_facial":"neutral",
+    "emocion_texto":"disgust",
+    "transcripcion":"And I'm taking care full of all my worst of speaking.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Estable"
+  },
+  {
+    "segundo":12,
+    "emocion_facial":"sad",
+    "emocion_texto":"disgust",
+    "transcripcion":"And I'm taking care full of all my worst of speaking.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":13,
+    "emocion_facial":"neutral",
+    "emocion_texto":"fear",
+    "transcripcion":"Sometimes I feel confused when things are difficult.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":14,
+    "emocion_facial":"surprise",
+    "emocion_texto":"fear",
+    "transcripcion":"Sometimes I feel confused when things are difficult.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":15,
+    "emocion_facial":"neutral",
+    "emocion_texto":"fear",
+    "transcripcion":"Sometimes I feel confused when things are difficult.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":16,
+    "emocion_facial":"surprise",
+    "emocion_texto":"fear",
+    "transcripcion":"Sometimes I feel confused when things are difficult.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":17,
+    "emocion_facial":"neutral",
+    "emocion_texto":"fear",
+    "transcripcion":"Sometimes I feel confused when things are difficult.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":18,
+    "emocion_facial":"surprise",
+    "emocion_texto":"joy",
+    "transcripcion":"Would I take a deep breath and I feel calm?",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":19,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"Would I take a deep breath and I feel calm?",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":20,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"Would I take a deep breath and I feel calm?",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Estable"
+  },
+  {
+    "segundo":21,
+    "emocion_facial":"angry",
+    "emocion_texto":"joy",
+    "transcripcion":"Would I take a deep breath and I feel calm?",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":22,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"Now I feel confident again, thank you for listening.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":23,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"Now I feel confident again, thank you for listening.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Estable"
+  },
+  {
+    "segundo":24,
+    "emocion_facial":"happy",
+    "emocion_texto":"joy",
+    "transcripcion":"Now I feel confident again, thank you for listening.",
+    "congruencia":"Congruente",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":25,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"Now I feel confident again, thank you for listening.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":26,
+    "emocion_facial":"neutral",
+    "emocion_texto":"neutral",
+    "transcripcion":"[Silencio]",
+    "congruencia":"No aplicable",
+    "cambio_emocional":"Estable"
+  }
+]

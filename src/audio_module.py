@@ -2,6 +2,7 @@ import whisper
 import pandas as pd
 from transformers import pipeline
 
+#Whisper (ASR), Transformers (RoBERTa emociones) 
 def analyze_audio(audio_path):
     # 1. Cargar Whisper (ASR)
     # 'base' es un buen balance entre velocidad y precisión para CPU

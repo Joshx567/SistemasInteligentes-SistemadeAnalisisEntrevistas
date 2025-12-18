@@ -74,3 +74,45 @@ def calculate_congruence(df):
 
     df['congruencia'] = congruencia_list
     return df
+
+def detect_emotional_changes(df):
+    cambios = []
+    prev_emotion = None
+
+    for _, row in df.iterrows():
+        current = row['emocion_facial']
+
+        if prev_emotion is None:
+            cambios.append("Inicio")
+        elif current != prev_emotion:
+            cambios.append("Cambio emocional")
+        else:
+            cambios.append("Estable")
+
+        prev_emotion = current
+
+    df['cambio_emocional'] = cambios
+    return df
+
+def compute_congruence_metrics(df):
+    total = len(df)
+
+    return {
+        "congruente_%": round((df['congruencia'] == "Congruente").sum() / total * 100, 2),
+        "incongruente_%": round((df['congruencia'] == "INCONGRUENCIA").sum() / total * 100, 2),
+        "no_aplicable_%": round((df['congruencia'] == "No aplicable").sum() / total * 100, 2),
+    }
+
+def generate_insights(df):
+    insights = []
+
+    if (df['congruencia'] == "INCONGRUENCIA").mean() > 0.3:
+        insights.append("Alta incongruencia emocional detectada")
+
+    if (df['cambio_emocional'] == "Cambio emocional").sum() > 10:
+        insights.append("Variabilidad emocional elevada")
+
+    if not insights:
+        insights.append("Patrón emocional estable")
+
+    return insights

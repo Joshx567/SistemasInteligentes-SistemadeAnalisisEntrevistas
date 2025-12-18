@@ -1,0 +1,28 @@
+segundo,emocion_facial,emocion_texto,transcripcion,congruencia,cambio_emocional
+0,surprise,neutral,"Hello, I'm speaking directly to the camera right now.",INCONGRUENCIA,Inicio
+1,neutral,neutral,"Hello, I'm speaking directly to the camera right now.",Congruente,Cambio emocional
+2,fear,neutral,"Hello, I'm speaking directly to the camera right now.",INCONGRUENCIA,Cambio emocional
+3,neutral,neutral,"Hello, I'm speaking directly to the camera right now.",Congruente,Cambio emocional
+4,surprise,neutral,"Hello, I'm speaking directly to the camera right now.",INCONGRUENCIA,Cambio emocional
+5,neutral,joy,I feel comfortable and I'm ready to begin.,INCONGRUENCIA,Cambio emocional
+6,neutral,joy,I feel comfortable and I'm ready to begin.,INCONGRUENCIA,Estable
+7,surprise,joy,I feel comfortable and I'm ready to begin.,INCONGRUENCIA,Cambio emocional
+8,angry,joy,I feel comfortable and I'm ready to begin.,INCONGRUENCIA,Cambio emocional
+9,neutral,disgust,And I'm taking care full of all my worst of speaking.,INCONGRUENCIA,Cambio emocional
+10,neutral,disgust,And I'm taking care full of all my worst of speaking.,INCONGRUENCIA,Estable
+11,neutral,disgust,And I'm taking care full of all my worst of speaking.,INCONGRUENCIA,Estable
+12,sad,disgust,And I'm taking care full of all my worst of speaking.,INCONGRUENCIA,Cambio emocional
+13,neutral,fear,Sometimes I feel confused when things are difficult.,INCONGRUENCIA,Cambio emocional
+14,surprise,fear,Sometimes I feel confused when things are difficult.,INCONGRUENCIA,Cambio emocional
+15,neutral,fear,Sometimes I feel confused when things are difficult.,INCONGRUENCIA,Cambio emocional
+16,surprise,fear,Sometimes I feel confused when things are difficult.,INCONGRUENCIA,Cambio emocional
+17,neutral,fear,Sometimes I feel confused when things are difficult.,INCONGRUENCIA,Cambio emocional
+18,surprise,joy,Would I take a deep breath and I feel calm?,INCONGRUENCIA,Cambio emocional
+19,neutral,joy,Would I take a deep breath and I feel calm?,INCONGRUENCIA,Cambio emocional
+20,neutral,joy,Would I take a deep breath and I feel calm?,INCONGRUENCIA,Estable
+21,angry,joy,Would I take a deep breath and I feel calm?,INCONGRUENCIA,Cambio emocional
+22,neutral,joy,"Now I feel confident again, thank you for listening.",INCONGRUENCIA,Cambio emocional
+23,neutral,joy,"Now I feel confident again, thank you for listening.",INCONGRUENCIA,Estable
+24,happy,joy,"Now I feel confident again, thank you for listening.",Congruente,Cambio emocional
+25,neutral,joy,"Now I feel confident again, thank you for listening.",INCONGRUENCIA,Cambio emocional
+26,neutral,neutral,[Silencio],No aplicable,Estable

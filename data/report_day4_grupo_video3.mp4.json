@@ -1,0 +1,218 @@
+[
+  {
+    "segundo":0,
+    "emocion_facial":"fear",
+    "emocion_texto":"neutral",
+    "transcripcion":"Hello, I am standing here to talk about my day.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Inicio"
+  },
+  {
+    "segundo":1,
+    "emocion_facial":"surprise",
+    "emocion_texto":"neutral",
+    "transcripcion":"Hello, I am standing here to talk about my day.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":2,
+    "emocion_facial":"surprise",
+    "emocion_texto":"neutral",
+    "transcripcion":"Hello, I am standing here to talk about my day.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Estable"
+  },
+  {
+    "segundo":3,
+    "emocion_facial":"surprise",
+    "emocion_texto":"neutral",
+    "transcripcion":"Hello, I am standing here to talk about my day.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Estable"
+  },
+  {
+    "segundo":4,
+    "emocion_facial":"surprise",
+    "emocion_texto":"neutral",
+    "transcripcion":"Hello, I am standing here to talk about my day.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Estable"
+  },
+  {
+    "segundo":5,
+    "emocion_facial":"surprise",
+    "emocion_texto":"joy",
+    "transcripcion":"This morning I feel happy when I saw the sun.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Estable"
+  },
+  {
+    "segundo":6,
+    "emocion_facial":"surprise",
+    "emocion_texto":"joy",
+    "transcripcion":"This morning I feel happy when I saw the sun.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Estable"
+  },
+  {
+    "segundo":7,
+    "emocion_facial":"surprise",
+    "emocion_texto":"joy",
+    "transcripcion":"This morning I feel happy when I saw the sun.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Estable"
+  },
+  {
+    "segundo":8,
+    "emocion_facial":"neutral",
+    "emocion_texto":"anger",
+    "transcripcion":"At school I had a lot of work and I feel stressed.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":9,
+    "emocion_facial":"neutral",
+    "emocion_texto":"anger",
+    "transcripcion":"At school I had a lot of work and I feel stressed.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Estable"
+  },
+  {
+    "segundo":10,
+    "emocion_facial":"surprise",
+    "emocion_texto":"anger",
+    "transcripcion":"At school I had a lot of work and I feel stressed.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":11,
+    "emocion_facial":"surprise",
+    "emocion_texto":"anger",
+    "transcripcion":"At school I had a lot of work and I feel stressed.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Estable"
+  },
+  {
+    "segundo":12,
+    "emocion_facial":"neutral",
+    "emocion_texto":"surprise",
+    "transcripcion":"Then something unexpected happened and I was surprised.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":13,
+    "emocion_facial":"neutral",
+    "emocion_texto":"surprise",
+    "transcripcion":"Then something unexpected happened and I was surprised.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Estable"
+  },
+  {
+    "segundo":14,
+    "emocion_facial":"surprise",
+    "emocion_texto":"surprise",
+    "transcripcion":"Then something unexpected happened and I was surprised.",
+    "congruencia":"Congruente",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":15,
+    "emocion_facial":"surprise",
+    "emocion_texto":"surprise",
+    "transcripcion":"Then something unexpected happened and I was surprised.",
+    "congruencia":"Congruente",
+    "cambio_emocional":"Estable"
+  },
+  {
+    "segundo":16,
+    "emocion_facial":"surprise",
+    "emocion_texto":"joy",
+    "transcripcion":"Later I listened to music and I feel calm again.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Estable"
+  },
+  {
+    "segundo":17,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"Later I listened to music and I feel calm again.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":18,
+    "emocion_facial":"surprise",
+    "emocion_texto":"joy",
+    "transcripcion":"Later I listened to music and I feel calm again.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":19,
+    "emocion_facial":"fear",
+    "emocion_texto":"joy",
+    "transcripcion":"Later I listened to music and I feel calm again.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":20,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"Now I feel good and ready for tomorrow.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Cambio emocional"
+  },
+  {
+    "segundo":21,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"Now I feel good and ready for tomorrow.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Estable"
+  },
+  {
+    "segundo":22,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"Now I feel good and ready for tomorrow.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Estable"
+  },
+  {
+    "segundo":23,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"Now I feel good and ready for tomorrow.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Estable"
+  },
+  {
+    "segundo":24,
+    "emocion_facial":"neutral",
+    "emocion_texto":"joy",
+    "transcripcion":"Now I feel good and ready for tomorrow.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Estable"
+  },
+  {
+    "segundo":25,
+    "emocion_facial":"neutral",
+    "emocion_texto":"disgust",
+    "transcripcion":"This is the end.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Estable"
+  },
+  {
+    "segundo":26,
+    "emocion_facial":"neutral",
+    "emocion_texto":"disgust",
+    "transcripcion":"This is the end.",
+    "congruencia":"INCONGRUENCIA",
+    "cambio_emocional":"Estable"
+  }
+]

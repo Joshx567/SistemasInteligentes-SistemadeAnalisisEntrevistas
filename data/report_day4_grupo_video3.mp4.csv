@@ -1,0 +1,28 @@
+segundo,emocion_facial,emocion_texto,transcripcion,congruencia,cambio_emocional
+0,fear,neutral,"Hello, I am standing here to talk about my day.",INCONGRUENCIA,Inicio
+1,surprise,neutral,"Hello, I am standing here to talk about my day.",INCONGRUENCIA,Cambio emocional
+2,surprise,neutral,"Hello, I am standing here to talk about my day.",INCONGRUENCIA,Estable
+3,surprise,neutral,"Hello, I am standing here to talk about my day.",INCONGRUENCIA,Estable
+4,surprise,neutral,"Hello, I am standing here to talk about my day.",INCONGRUENCIA,Estable
+5,surprise,joy,This morning I feel happy when I saw the sun.,INCONGRUENCIA,Estable
+6,surprise,joy,This morning I feel happy when I saw the sun.,INCONGRUENCIA,Estable
+7,surprise,joy,This morning I feel happy when I saw the sun.,INCONGRUENCIA,Estable
+8,neutral,anger,At school I had a lot of work and I feel stressed.,INCONGRUENCIA,Cambio emocional
+9,neutral,anger,At school I had a lot of work and I feel stressed.,INCONGRUENCIA,Estable
+10,surprise,anger,At school I had a lot of work and I feel stressed.,INCONGRUENCIA,Cambio emocional
+11,surprise,anger,At school I had a lot of work and I feel stressed.,INCONGRUENCIA,Estable
+12,neutral,surprise,Then something unexpected happened and I was surprised.,INCONGRUENCIA,Cambio emocional
+13,neutral,surprise,Then something unexpected happened and I was surprised.,INCONGRUENCIA,Estable
+14,surprise,surprise,Then something unexpected happened and I was surprised.,Congruente,Cambio emocional
+15,surprise,surprise,Then something unexpected happened and I was surprised.,Congruente,Estable
+16,surprise,joy,Later I listened to music and I feel calm again.,INCONGRUENCIA,Estable
+17,neutral,joy,Later I listened to music and I feel calm again.,INCONGRUENCIA,Cambio emocional
+18,surprise,joy,Later I listened to music and I feel calm again.,INCONGRUENCIA,Cambio emocional
+19,fear,joy,Later I listened to music and I feel calm again.,INCONGRUENCIA,Cambio emocional
+20,neutral,joy,Now I feel good and ready for tomorrow.,INCONGRUENCIA,Cambio emocional
+21,neutral,joy,Now I feel good and ready for tomorrow.,INCONGRUENCIA,Estable
+22,neutral,joy,Now I feel good and ready for tomorrow.,INCONGRUENCIA,Estable
+23,neutral,joy,Now I feel good and ready for tomorrow.,INCONGRUENCIA,Estable
+24,neutral,joy,Now I feel good and ready for tomorrow.,INCONGRUENCIA,Estable
+25,neutral,disgust,This is the end.,INCONGRUENCIA,Estable
+26,neutral,disgust,This is the end.,INCONGRUENCIA,Estable

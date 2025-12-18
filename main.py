@@ -59,9 +59,18 @@ def main():
         # PASO 5: Congruencia
         final_report = analysis_core.calculate_congruence(df_integrated)
 
+        # DÍA 4 – ANÁLISIS AVANZADO
+        final_report = analysis_core.detect_emotional_changes(final_report)
+
+        metrics = analysis_core.compute_congruence_metrics(final_report)
+        insights = analysis_core.generate_insights(final_report)
+
+        logging.info(f"Métricas: {metrics}")
+        logging.info(f"Insights: {insights}")
+
         # ---------------- SALIDAS ----------------
-        csv_path = os.path.join(OUTPUT_DIR, f"report_day3_{video_name}.csv")
-        json_path = os.path.join(OUTPUT_DIR, f"report_day3_{video_name}.json")
+        csv_path = os.path.join(OUTPUT_DIR, f"report_day4_{video_name}.csv")
+        json_path = os.path.join(OUTPUT_DIR, f"report_day4_{video_name}.json")
 
         final_report.to_csv(csv_path, index=False)
         final_report.to_json(json_path, orient="records", indent=2)

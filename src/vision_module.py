@@ -2,6 +2,7 @@ import os
 import pandas as pd
 from deepface import DeepFace
 
+#Módulo CNN (emociones faciales), deepface
 def analyze_faces(frames_folder):
     results = []
     
