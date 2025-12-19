@@ -1,28 +1,28 @@
-segundo,emocion_facial,emocion_texto,transcripcion,congruencia,cambio_emocional
-0,fear,neutral,"Hello, I am standing here to talk about my day.",INCONGRUENCIA,Inicio
-1,surprise,neutral,"Hello, I am standing here to talk about my day.",INCONGRUENCIA,Cambio emocional
-2,surprise,neutral,"Hello, I am standing here to talk about my day.",INCONGRUENCIA,Estable
-3,surprise,neutral,"Hello, I am standing here to talk about my day.",INCONGRUENCIA,Estable
-4,surprise,neutral,"Hello, I am standing here to talk about my day.",INCONGRUENCIA,Estable
-5,surprise,joy,This morning I feel happy when I saw the sun.,INCONGRUENCIA,Estable
-6,surprise,joy,This morning I feel happy when I saw the sun.,INCONGRUENCIA,Estable
-7,surprise,joy,This morning I feel happy when I saw the sun.,INCONGRUENCIA,Estable
-8,neutral,anger,At school I had a lot of work and I feel stressed.,INCONGRUENCIA,Cambio emocional
-9,neutral,anger,At school I had a lot of work and I feel stressed.,INCONGRUENCIA,Estable
-10,surprise,anger,At school I had a lot of work and I feel stressed.,INCONGRUENCIA,Cambio emocional
-11,surprise,anger,At school I had a lot of work and I feel stressed.,INCONGRUENCIA,Estable
-12,neutral,surprise,Then something unexpected happened and I was surprised.,INCONGRUENCIA,Cambio emocional
-13,neutral,surprise,Then something unexpected happened and I was surprised.,INCONGRUENCIA,Estable
-14,surprise,surprise,Then something unexpected happened and I was surprised.,Congruente,Cambio emocional
-15,surprise,surprise,Then something unexpected happened and I was surprised.,Congruente,Estable
-16,surprise,joy,Later I listened to music and I feel calm again.,INCONGRUENCIA,Estable
-17,neutral,joy,Later I listened to music and I feel calm again.,INCONGRUENCIA,Cambio emocional
-18,surprise,joy,Later I listened to music and I feel calm again.,INCONGRUENCIA,Cambio emocional
-19,fear,joy,Later I listened to music and I feel calm again.,INCONGRUENCIA,Cambio emocional
-20,neutral,joy,Now I feel good and ready for tomorrow.,INCONGRUENCIA,Cambio emocional
-21,neutral,joy,Now I feel good and ready for tomorrow.,INCONGRUENCIA,Estable
-22,neutral,joy,Now I feel good and ready for tomorrow.,INCONGRUENCIA,Estable
-23,neutral,joy,Now I feel good and ready for tomorrow.,INCONGRUENCIA,Estable
-24,neutral,joy,Now I feel good and ready for tomorrow.,INCONGRUENCIA,Estable
-25,neutral,disgust,This is the end.,INCONGRUENCIA,Estable
-26,neutral,disgust,This is the end.,INCONGRUENCIA,Estable
+segundo,angry,disgust,fear,happy,sad,surprise,neutral,emocion_facial,texto,emocion_texto,emocion_facial_raw,congruencia,cambio_emocion
+0,10.131357192993164,0.0024713147431612015,75.8560562133789,0.19882750511169434,13.583673477172852,0.023966757580637932,0.2036546766757965,neutral,"Hello, I am standing here to talk about my day.",neutral,fear,Congruente,True
+1,0.22597342729568481,0.004852671641856432,0.9102674126625061,0.20729230344295502,0.004157290328294039,98.57546997070312,0.0719808042049408,neutral,"Hello, I am standing here to talk about my day.",neutral,surprise,Congruente,False
+2,0.025035591796040535,1.6101028450066224e-05,0.01022307574748993,0.007849526591598988,6.328673043753952e-05,99.95550537109375,0.0013108843704685569,neutral,"Hello, I am standing here to talk about my day.",neutral,surprise,Congruente,False
+3,0.13150477409362793,2.642933395691216e-06,0.05620962381362915,1.0625734329223633,0.0038292724639177322,97.09059143066406,1.6552814245224,neutral,"Hello, I am standing here to talk about my day.",neutral,surprise,Congruente,False
+4,0.8986574411392212,0.6944435238838196,15.464439392089844,0.9253690838813782,0.10473428666591644,80.3130111694336,1.5993491411209106,neutral,"Hello, I am standing here to talk about my day.",neutral,surprise,Congruente,False
+5,0.11691068857908249,0.04267304018139839,5.562542915344238,0.3139021098613739,0.048157818615436554,93.26567077636719,0.6501449346542358,neutral,This morning I feel happy when I saw the sun.,joy,surprise,INCONGRUENCIA,False
+6,0.8332227468490601,0.1458292305469513,11.448807716369629,0.13438747823238373,0.6526133418083191,84.93203735351562,1.8531123399734497,neutral,This morning I feel happy when I saw the sun.,joy,surprise,INCONGRUENCIA,False
+7,0.12890520691871643,0.0004853345744777471,0.14049497246742249,0.0063839019276201725,0.012047751806676388,99.69713592529297,0.01454814150929451,neutral,This morning I feel happy when I saw the sun.,joy,surprise,INCONGRUENCIA,False
+8,0.24782264232635498,0.16503623127937317,8.06811237335205,19.036996841430664,0.36749204993247986,8.521132469177246,63.59340286254883,neutral,At school I had a lot of work and I feel stressed.,anger,neutral,INCONGRUENCIA,False
+9,0.1798839569091797,0.003715601982548833,6.829947471618652,22.703508377075195,0.18738028407096863,21.489412307739258,48.60615539550781,neutral,At school I had a lot of work and I feel stressed.,anger,neutral,INCONGRUENCIA,False
+10,0.4705218970775604,8.384906323044561e-06,0.1413838267326355,0.3985220193862915,0.030251801013946533,87.81004333496094,11.149271011352539,neutral,At school I had a lot of work and I feel stressed.,anger,surprise,INCONGRUENCIA,False
+11,1.2479207515716553,0.04875274375081062,1.7147526741027832,0.10465820133686066,0.39023351669311523,96.30613708496094,0.18755418062210083,neutral,At school I had a lot of work and I feel stressed.,anger,surprise,INCONGRUENCIA,False
+12,0.69938063621521,8.159192657331005e-05,0.9107096791267395,1.4402849674224854,0.7596843242645264,2.7398223876953125,93.45004272460938,neutral,Then something unexpected happened and I was surprised.,surprise,neutral,INCONGRUENCIA,False
+13,0.8341017961502075,7.164777343859896e-05,1.7456634044647217,2.504286766052246,0.5835599303245544,9.43723201751709,84.89508819580078,neutral,Then something unexpected happened and I was surprised.,surprise,neutral,INCONGRUENCIA,False
+14,0.5858399868011475,5.016698924009688e-05,0.7691035866737366,0.9561439752578735,0.12565399706363678,56.30006790161133,41.26313781738281,neutral,Then something unexpected happened and I was surprised.,surprise,surprise,INCONGRUENCIA,False
+15,0.6971222162246704,0.009979292750358582,1.1929631233215332,0.2930392026901245,0.09144075214862823,94.55732727050781,3.158133029937744,neutral,Then something unexpected happened and I was surprised.,surprise,surprise,INCONGRUENCIA,False
+16,2.0747058391571045,0.01228252798318863,9.379871368408203,0.3629739284515381,0.920853316783905,82.27287292480469,4.976440906524658,neutral,Later I listened to music and I feel calm again.,joy,surprise,INCONGRUENCIA,False
+17,2.23345685005188,0.00416230782866478,4.819223880767822,2.603214979171753,4.668689727783203,0.10203395783901215,85.56922149658203,neutral,Later I listened to music and I feel calm again.,joy,neutral,INCONGRUENCIA,False
+18,0.367514044046402,0.00102532550226897,0.5450343489646912,0.27467814087867737,0.01801409013569355,97.80370330810547,0.9900302886962891,neutral,Later I listened to music and I feel calm again.,joy,surprise,INCONGRUENCIA,False
+19,30.08827018737793,0.005069681443274021,32.689117431640625,0.028002070263028145,12.661947250366211,12.004569053649902,12.523028373718262,neutral,Later I listened to music and I feel calm again.,joy,fear,INCONGRUENCIA,False
+20,5.103193283081055,1.5749214071547613e-05,2.9064953327178955,7.853575229644775,19.668983459472656,1.2338392734527588,63.23390197753906,neutral,Now I feel good and ready for tomorrow.,joy,neutral,INCONGRUENCIA,False
+21,5.529403209686279,0.03262966871261597,26.344280242919922,0.7134554386138916,8.663015365600586,2.2811217308044434,56.43609619140625,neutral,Now I feel good and ready for tomorrow.,joy,neutral,INCONGRUENCIA,False
+22,11.12353229522705,0.061207834631204605,22.065874099731445,0.9688044786453247,13.108854293823242,20.321813583374023,32.349918365478516,neutral,Now I feel good and ready for tomorrow.,joy,neutral,INCONGRUENCIA,False
+23,1.0043601989746094,5.864371269126423e-05,0.5226855278015137,6.192480564117432,0.7298087477684021,0.11542089283466339,91.43518829345703,neutral,Now I feel good and ready for tomorrow.,joy,neutral,INCONGRUENCIA,False
+24,0.32741138339042664,0.009473252110183239,5.763795852661133,2.0183467864990234,0.8614808320999146,0.1740381121635437,90.845458984375,neutral,Now I feel good and ready for tomorrow.,joy,neutral,INCONGRUENCIA,False
+25,0.9437347054481506,0.023863907903432846,33.62422561645508,0.2543935179710388,2.5947225093841553,0.3189780116081238,62.240089416503906,neutral,This is the end.,disgust,neutral,INCONGRUENCIA,False
+26,3.6345183849334717,0.014910508878529072,6.907051086425781,24.927640914916992,2.0866897106170654,6.239310264587402,56.189876556396484,neutral,This is the end.,disgust,neutral,INCONGRUENCIA,False
