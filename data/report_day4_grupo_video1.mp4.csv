@@ -1,39 +1,39 @@
-segundo,emocion_facial,emocion_texto,transcripcion,congruencia,cambio_emocional
-0,neutral,sadness,"Hello, I would like to take a moment to reflect on how I'm feeling today.",INCONGRUENCIA,Inicio
-1,surprise,sadness,"Hello, I would like to take a moment to reflect on how I'm feeling today.",INCONGRUENCIA,Cambio emocional
-2,surprise,sadness,"Hello, I would like to take a moment to reflect on how I'm feeling today.",INCONGRUENCIA,Estable
-3,happy,sadness,"Hello, I would like to take a moment to reflect on how I'm feeling today.",INCONGRUENCIA,Cambio emocional
-4,surprise,sadness,"Hello, I would like to take a moment to reflect on how I'm feeling today.",INCONGRUENCIA,Cambio emocional
-5,neutral,sadness,"Hello, I would like to take a moment to reflect on how I'm feeling today.",INCONGRUENCIA,Cambio emocional
-6,surprise,fear,"As I speak, I'm carefully choosing my words and organizing my doubts.",INCONGRUENCIA,Cambio emocional
-7,surprise,fear,"As I speak, I'm carefully choosing my words and organizing my doubts.",INCONGRUENCIA,Estable
-8,surprise,fear,"As I speak, I'm carefully choosing my words and organizing my doubts.",INCONGRUENCIA,Estable
-9,surprise,fear,"As I speak, I'm carefully choosing my words and organizing my doubts.",INCONGRUENCIA,Estable
-10,neutral,fear,"As I speak, I'm carefully choosing my words and organizing my doubts.",INCONGRUENCIA,Cambio emocional
-11,surprise,sadness,"Earlier, I feel over him by responsibilities and expectations.",INCONGRUENCIA,Cambio emocional
-12,neutral,sadness,"Earlier, I feel over him by responsibilities and expectations.",INCONGRUENCIA,Cambio emocional
-13,neutral,sadness,"Earlier, I feel over him by responsibilities and expectations.",INCONGRUENCIA,Estable
-14,surprise,sadness,"Earlier, I feel over him by responsibilities and expectations.",INCONGRUENCIA,Cambio emocional
-15,surprise,sadness,"Earlier, I feel over him by responsibilities and expectations.",INCONGRUENCIA,Estable
-16,neutral,sadness,"Earlier, I feel over him by responsibilities and expectations.",INCONGRUENCIA,Cambio emocional
-17,neutral,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",Congruente,Estable
-18,happy,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",INCONGRUENCIA,Cambio emocional
-19,surprise,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",INCONGRUENCIA,Cambio emocional
-20,surprise,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",INCONGRUENCIA,Estable
-21,fear,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",INCONGRUENCIA,Cambio emocional
-22,neutral,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",Congruente,Cambio emocional
-23,neutral,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",Congruente,Estable
-24,neutral,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",Congruente,Estable
-25,surprise,neutral,"After taking some time to power some breath, I feel more balance and focus.",INCONGRUENCIA,Cambio emocional
-26,angry,neutral,"After taking some time to power some breath, I feel more balance and focus.",INCONGRUENCIA,Cambio emocional
-27,surprise,neutral,"After taking some time to power some breath, I feel more balance and focus.",INCONGRUENCIA,Cambio emocional
-28,angry,neutral,"After taking some time to power some breath, I feel more balance and focus.",INCONGRUENCIA,Cambio emocional
-29,neutral,neutral,"After taking some time to power some breath, I feel more balance and focus.",Congruente,Cambio emocional
-30,neutral,joy,"Right now, I feel composed, and ready to move forward with clarity.",INCONGRUENCIA,Estable
-31,surprise,joy,"Right now, I feel composed, and ready to move forward with clarity.",INCONGRUENCIA,Cambio emocional
-32,neutral,joy,"Right now, I feel composed, and ready to move forward with clarity.",INCONGRUENCIA,Cambio emocional
-33,neutral,joy,"Right now, I feel composed, and ready to move forward with clarity.",INCONGRUENCIA,Estable
-34,neutral,joy,"Right now, I feel composed, and ready to move forward with clarity.",INCONGRUENCIA,Estable
-35,neutral,joy,"Right now, I feel composed, and ready to move forward with clarity.",INCONGRUENCIA,Estable
-36,surprise,joy,"Right now, I feel composed, and ready to move forward with clarity.",INCONGRUENCIA,Cambio emocional
-37,neutral,neutral,[Silencio],No aplicable,Cambio emocional
+segundo,angry,disgust,fear,happy,sad,surprise,neutral,emocion_facial,texto,emocion_texto,emocion_facial_raw,congruencia,cambio_emocion
+0,0.515376627445221,0.00016651758051011711,1.0175600051879883,28.786130905151367,0.10329826176166534,7.825533866882324,61.75193786621094,neutral,"Hello, I would like to take a moment to reflect on how I'm feeling today.",sadness,neutral,INCONGRUENCIA,True
+1,0.07803810387849808,1.926283175635035e-06,0.004378647543489933,0.005314229987561703,6.254854088183492e-05,99.9093017578125,0.0028977657202631235,neutral,"Hello, I would like to take a moment to reflect on how I'm feeling today.",sadness,surprise,INCONGRUENCIA,False
+2,0.11010029911994934,0.0004132546891923994,0.25332409143447876,0.4035429358482361,0.0009435006650164723,98.96845245361328,0.26321497559547424,neutral,"Hello, I would like to take a moment to reflect on how I'm feeling today.",sadness,surprise,INCONGRUENCIA,False
+3,26.04779624938965,1.4624261268636474e-07,0.6138166189193726,72.67568969726562,0.2972595989704132,0.23165783286094666,0.13377414643764496,neutral,"Hello, I would like to take a moment to reflect on how I'm feeling today.",sadness,happy,INCONGRUENCIA,False
+4,0.9053350687026978,0.02423342876136303,0.752013623714447,0.9471032619476318,0.029233714565634727,96.54444122314453,0.7976353168487549,surprise,"Hello, I would like to take a moment to reflect on how I'm feeling today.",sadness,surprise,INCONGRUENCIA,True
+5,0.20457524061203003,0.3076675832271576,25.645021438598633,17.454959869384766,1.1186972856521606,2.1952037811279297,53.07387161254883,neutral,"Hello, I would like to take a moment to reflect on how I'm feeling today.",sadness,neutral,INCONGRUENCIA,True
+6,0.38694778084754944,0.0008226573118008673,0.09040972590446472,0.12906719744205475,0.0021417373791337013,99.25646209716797,0.1341480016708374,neutral,"As I speak, I'm carefully choosing my words and organizing my doubts.",fear,surprise,INCONGRUENCIA,False
+7,0.18487049639225006,0.000720601063221693,0.07719163596630096,0.018948040902614594,0.0007943881209939718,99.69930267333984,0.01817472279071808,neutral,"As I speak, I'm carefully choosing my words and organizing my doubts.",fear,surprise,INCONGRUENCIA,False
+8,0.24053244292736053,0.0006051375530660152,0.07486164569854736,0.12913063168525696,0.0033779426012188196,99.48799133300781,0.06350412219762802,neutral,"As I speak, I'm carefully choosing my words and organizing my doubts.",fear,surprise,INCONGRUENCIA,False
+9,0.24204570055007935,0.013563675805926323,9.4002103805542,7.157441139221191,0.20665809512138367,72.6994400024414,10.2806396484375,neutral,"As I speak, I'm carefully choosing my words and organizing my doubts.",fear,surprise,INCONGRUENCIA,False
+10,1.0826127529144287,0.0012386892922222614,1.2448266744613647,13.030299186706543,2.9729676246643066,0.06815588474273682,81.59989929199219,neutral,"As I speak, I'm carefully choosing my words and organizing my doubts.",fear,neutral,INCONGRUENCIA,False
+11,11.4100341796875,0.0005129009368829429,2.236664295196533,0.42689141631126404,0.1889532208442688,81.68226623535156,4.054680347442627,neutral,"Earlier, I feel over him by responsibilities and expectations.",sadness,surprise,INCONGRUENCIA,False
+12,0.11074770241975784,3.327783915096916e-08,0.0032068442087620497,3.726179599761963,0.15006594359874725,0.01126535702496767,95.99853515625,neutral,"Earlier, I feel over him by responsibilities and expectations.",sadness,neutral,INCONGRUENCIA,False
+13,0.009924868121743202,1.000248772697887e-10,0.0003824518353212625,1.0899800062179565,0.01076615322381258,0.012377592734992504,98.8765640258789,neutral,"Earlier, I feel over him by responsibilities and expectations.",sadness,neutral,INCONGRUENCIA,False
+14,0.056283485144376755,4.8691574193071574e-05,0.06608377397060394,0.15045273303985596,0.0040659490041434765,99.60411834716797,0.11894676089286804,neutral,"Earlier, I feel over him by responsibilities and expectations.",sadness,surprise,INCONGRUENCIA,False
+15,0.013978837057948112,0.0001039430353557691,0.6128635406494141,2.7494142055511475,0.0022824876941740513,94.77572631835938,1.8456329107284546,neutral,"Earlier, I feel over him by responsibilities and expectations.",sadness,surprise,INCONGRUENCIA,False
+16,1.2435001134872437,8.64742833073251e-05,0.4727444052696228,7.742039680480957,1.8200769424438477,0.1747930347919464,88.54676818847656,neutral,"Earlier, I feel over him by responsibilities and expectations.",sadness,neutral,INCONGRUENCIA,False
+17,1.166149377822876,3.227317574783228e-05,0.32078438997268677,29.532608032226562,0.8214284777641296,4.169239521026611,63.9897575378418,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",neutral,neutral,Congruente,False
+18,0.2501441538333893,3.73556225952143e-08,0.003150902921333909,6.519241809844971,0.5479534864425659,0.017174508422613144,92.66233825683594,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",neutral,neutral,Congruente,False
+19,2.265230894088745,0.3968777358531952,8.102699279785156,1.0416465997695923,0.2561628222465515,86.75894165039062,1.178443193435669,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",neutral,surprise,Congruente,False
+20,2.2678287029266357,0.0013278304832056165,5.167682647705078,1.989054799079895,0.45420941710472107,84.55218505859375,5.567716121673584,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",neutral,surprise,Congruente,False
+21,1.3478549718856812,0.04127806797623634,67.08906555175781,0.49434345960617065,1.3853962421417236,25.888160705566406,3.7538983821868896,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",neutral,fear,Congruente,False
+22,6.965685844421387,1.4126393580227159e-05,0.9240995049476624,2.2347183227539062,8.181975364685059,0.3610016405582428,81.33250427246094,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",neutral,neutral,Congruente,False
+23,0.04775460436940193,1.4279172319220379e-05,0.4416114091873169,13.088006973266602,0.2084953486919403,0.3750876784324646,85.83902740478516,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",neutral,neutral,Congruente,False
+24,0.0808320865035057,4.879226480625221e-07,0.02803806960582733,13.9410400390625,0.02467726729810238,14.908971786499023,71.01644134521484,neutral,"However, I realized that challenges of the health boost growth and understand ourselves better.",neutral,neutral,Congruente,False
+25,2.147430658340454,0.043411560356616974,5.656945705413818,1.100945234298706,0.08382833003997803,90.37437438964844,0.593063235282898,neutral,"After taking some time to power some breath, I feel more balance and focus.",neutral,surprise,Congruente,False
+26,54.31978988647461,2.4707958345970837e-06,0.09228073060512543,45.41652297973633,0.028663812205195427,0.10744159668684006,0.035296421498060226,neutral,"After taking some time to power some breath, I feel more balance and focus.",neutral,angry,Congruente,False
+27,0.1614079773426056,5.022434197599068e-05,1.025258183479309,4.935407638549805,0.03206433728337288,88.03224182128906,5.813577651977539,neutral,"After taking some time to power some breath, I feel more balance and focus.",neutral,surprise,Congruente,False
+28,79.93873596191406,1.6794285329524428e-05,0.4705575704574585,0.00023679369769524783,5.54667854309082,1.5766353607177734,12.467141151428223,neutral,"After taking some time to power some breath, I feel more balance and focus.",neutral,angry,Congruente,False
+29,0.14289525151252747,0.006630962248891592,14.698822975158691,23.1834774017334,2.5743727684020996,16.744869232177734,42.64893341064453,neutral,"After taking some time to power some breath, I feel more balance and focus.",neutral,neutral,Congruente,False
+30,1.2130062580108643,0.2114325314760208,2.2504966259002686,2.123302459716797,0.45726215839385986,2.3330087661743164,91.4114990234375,neutral,"Right now, I feel composed, and ready to move forward with clarity.",joy,neutral,INCONGRUENCIA,False
+31,0.6424063444137573,0.006215255241841078,6.097921371459961,1.0820435285568237,0.12299837172031403,86.63529205322266,5.413122177124023,neutral,"Right now, I feel composed, and ready to move forward with clarity.",joy,surprise,INCONGRUENCIA,False
+32,0.2735922336578369,2.2789905074205308e-07,0.011205704882740974,4.249873161315918,0.5275484323501587,0.005186242982745171,94.9325942993164,neutral,"Right now, I feel composed, and ready to move forward with clarity.",joy,neutral,INCONGRUENCIA,False
+33,8.618030548095703,0.011586452834308147,19.228736877441406,8.980111122131348,8.426824569702148,9.290788650512695,45.44392395019531,neutral,"Right now, I feel composed, and ready to move forward with clarity.",joy,neutral,INCONGRUENCIA,False
+34,2.263521432876587,2.453180968586821e-05,1.2388468980789185,4.161162853240967,1.5308318138122559,4.671172618865967,86.13443756103516,neutral,"Right now, I feel composed, and ready to move forward with clarity.",joy,neutral,INCONGRUENCIA,False
+35,1.5383131504058838,0.007278731092810631,36.82952117919922,8.730904579162598,3.7954483032226562,6.8605475425720215,42.23798751831055,neutral,"Right now, I feel composed, and ready to move forward with clarity.",joy,neutral,INCONGRUENCIA,False
+36,13.411066055297852,0.0007687098113819957,2.069822072982788,0.010500322096049786,0.27008286118507385,83.450439453125,0.7873233556747437,neutral,"Right now, I feel composed, and ready to move forward with clarity.",joy,surprise,INCONGRUENCIA,False
+37,0.07078520953655243,4.822608843824128e-06,0.006082071922719479,13.149137496948242,0.16014114022254944,0.01915944740176201,86.59468841552734,neutral,[Silencio],neutral,neutral,No aplicable,False

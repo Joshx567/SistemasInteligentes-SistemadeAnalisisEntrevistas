@@ -5,8 +5,10 @@ pandas
 moviepy
 scipy
 openpyxl
-imageio 
+imageio
 tensorflow
 tf-keras
 transformers
-whisper
+openai-whisper
+matplotlib
+seaborn

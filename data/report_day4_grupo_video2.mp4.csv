@@ -1,28 +1,28 @@
-segundo,emocion_facial,emocion_texto,transcripcion,congruencia,cambio_emocional
-0,surprise,neutral,"Hello, I'm speaking directly to the camera right now.",INCONGRUENCIA,Inicio
-1,neutral,neutral,"Hello, I'm speaking directly to the camera right now.",Congruente,Cambio emocional
-2,fear,neutral,"Hello, I'm speaking directly to the camera right now.",INCONGRUENCIA,Cambio emocional
-3,neutral,neutral,"Hello, I'm speaking directly to the camera right now.",Congruente,Cambio emocional
-4,surprise,neutral,"Hello, I'm speaking directly to the camera right now.",INCONGRUENCIA,Cambio emocional
-5,neutral,joy,I feel comfortable and I'm ready to begin.,INCONGRUENCIA,Cambio emocional
-6,neutral,joy,I feel comfortable and I'm ready to begin.,INCONGRUENCIA,Estable
-7,surprise,joy,I feel comfortable and I'm ready to begin.,INCONGRUENCIA,Cambio emocional
-8,angry,joy,I feel comfortable and I'm ready to begin.,INCONGRUENCIA,Cambio emocional
-9,neutral,disgust,And I'm taking care full of all my worst of speaking.,INCONGRUENCIA,Cambio emocional
-10,neutral,disgust,And I'm taking care full of all my worst of speaking.,INCONGRUENCIA,Estable
-11,neutral,disgust,And I'm taking care full of all my worst of speaking.,INCONGRUENCIA,Estable
-12,sad,disgust,And I'm taking care full of all my worst of speaking.,INCONGRUENCIA,Cambio emocional
-13,neutral,fear,Sometimes I feel confused when things are difficult.,INCONGRUENCIA,Cambio emocional
-14,surprise,fear,Sometimes I feel confused when things are difficult.,INCONGRUENCIA,Cambio emocional
-15,neutral,fear,Sometimes I feel confused when things are difficult.,INCONGRUENCIA,Cambio emocional
-16,surprise,fear,Sometimes I feel confused when things are difficult.,INCONGRUENCIA,Cambio emocional
-17,neutral,fear,Sometimes I feel confused when things are difficult.,INCONGRUENCIA,Cambio emocional
-18,surprise,joy,Would I take a deep breath and I feel calm?,INCONGRUENCIA,Cambio emocional
-19,neutral,joy,Would I take a deep breath and I feel calm?,INCONGRUENCIA,Cambio emocional
-20,neutral,joy,Would I take a deep breath and I feel calm?,INCONGRUENCIA,Estable
-21,angry,joy,Would I take a deep breath and I feel calm?,INCONGRUENCIA,Cambio emocional
-22,neutral,joy,"Now I feel confident again, thank you for listening.",INCONGRUENCIA,Cambio emocional
-23,neutral,joy,"Now I feel confident again, thank you for listening.",INCONGRUENCIA,Estable
-24,happy,joy,"Now I feel confident again, thank you for listening.",Congruente,Cambio emocional
-25,neutral,joy,"Now I feel confident again, thank you for listening.",INCONGRUENCIA,Cambio emocional
-26,neutral,neutral,[Silencio],No aplicable,Estable
+segundo,angry,disgust,fear,happy,sad,surprise,neutral,emocion_facial,texto,emocion_texto,emocion_facial_raw,congruencia,cambio_emocion
+0,3.770383596420288,1.1495040655136108,8.479060173034668,0.7067999243736267,0.35415735840797424,78.83686828613281,6.703227519989014,neutral,"Hello, I'm speaking directly to the camera right now.",neutral,surprise,Congruente,True
+1,2.815044403076172,0.13217706978321075,7.6841959953308105,7.67379903793335,2.211491107940674,0.594710111618042,78.88858032226562,neutral,"Hello, I'm speaking directly to the camera right now.",neutral,neutral,Congruente,False
+2,12.578814506530762,0.22038495540618896,40.79249572753906,4.56309175491333,3.371189832687378,3.6333670616149902,34.84064865112305,neutral,"Hello, I'm speaking directly to the camera right now.",neutral,fear,Congruente,False
+3,1.5798745155334473,0.09058119356632233,24.494043350219727,6.899298667907715,2.265491247177124,1.447510004043579,63.223201751708984,neutral,"Hello, I'm speaking directly to the camera right now.",neutral,neutral,Congruente,False
+4,1.2794255018234253,0.019623685628175735,1.2344664335250854,0.7593362331390381,0.024253472685813904,95.79961395263672,0.8832836747169495,neutral,"Hello, I'm speaking directly to the camera right now.",neutral,surprise,Congruente,False
+5,0.8180074095726013,1.9863491615979e-06,0.0579567588865757,6.717629432678223,0.2358398288488388,2.5815587043762207,89.58900451660156,neutral,I feel comfortable and I'm ready to begin.,joy,neutral,INCONGRUENCIA,False
+6,0.07405827194452286,1.0773849368206356e-07,0.011170883662998676,0.8629826903343201,0.03295235335826874,0.5723519325256348,98.44647979736328,neutral,I feel comfortable and I'm ready to begin.,joy,neutral,INCONGRUENCIA,False
+7,0.10392522811889648,9.697594214230776e-05,0.06455628573894501,0.04014163091778755,0.00041351880645379424,99.77930450439453,0.011562013067305088,neutral,I feel comfortable and I'm ready to begin.,joy,surprise,INCONGRUENCIA,False
+8,71.59898376464844,0.00011547516623977572,0.8432207703590393,0.0007908798288553953,27.259244918823242,0.0001634790824027732,0.29748624563217163,neutral,I feel comfortable and I'm ready to begin.,joy,angry,INCONGRUENCIA,False
+9,0.19627714157104492,0.11137819290161133,5.121352672576904,32.926509857177734,36.88142395019531,0.023483311757445335,24.73957061767578,neutral,And I'm taking care full of all my worst of speaking.,disgust,sad,INCONGRUENCIA,False
+10,5.682388782501221,0.0012716710334643722,2.0720531940460205,19.095199584960938,2.593392848968506,1.0581945180892944,69.49750518798828,neutral,And I'm taking care full of all my worst of speaking.,disgust,neutral,INCONGRUENCIA,False
+11,0.6001250743865967,0.0001273338421015069,0.09919014573097229,6.160877227783203,1.0471135377883911,0.20260374248027802,91.88996887207031,neutral,And I'm taking care full of all my worst of speaking.,disgust,neutral,INCONGRUENCIA,False
+12,0.9212402701377869,4.286444436729653e-06,0.06336809694766998,0.0857476219534874,78.46097564697266,0.010027761571109295,20.458641052246094,neutral,And I'm taking care full of all my worst of speaking.,disgust,sad,INCONGRUENCIA,False
+13,0.7005171775817871,3.252177123158617e-07,2.7742862701416016,0.7959380149841309,16.116670608520508,0.9881622791290283,78.62442779541016,neutral,Sometimes I feel confused when things are difficult.,fear,neutral,INCONGRUENCIA,False
+14,0.034707117825746536,3.800659555963648e-07,0.42170941829681396,0.0013593712355941534,0.004893407691270113,99.49250030517578,0.04483671486377716,neutral,Sometimes I feel confused when things are difficult.,fear,surprise,INCONGRUENCIA,False
+15,6.321022033691406,0.012259313836693764,6.092019557952881,5.671236515045166,11.97916316986084,1.5956172943115234,68.32868957519531,neutral,Sometimes I feel confused when things are difficult.,fear,neutral,INCONGRUENCIA,False
+16,1.6984453201293945,0.0011238397564738989,4.422952651977539,0.9374265670776367,0.12264597415924072,89.74987030029297,3.0675339698791504,neutral,Sometimes I feel confused when things are difficult.,fear,surprise,INCONGRUENCIA,False
+17,1.215193271636963,0.004573780577629805,2.6908986568450928,3.4536619186401367,4.271632194519043,0.15281476080417633,88.21122741699219,neutral,Sometimes I feel confused when things are difficult.,fear,neutral,INCONGRUENCIA,False
+18,1.5666887760162354,0.1555042862892151,16.83576774597168,0.47097262740135193,0.7625865936279297,65.8152847290039,14.393192291259766,neutral,Would I take a deep breath and I feel calm?,joy,surprise,INCONGRUENCIA,False
+19,8.116046905517578,0.05235622078180313,27.491313934326172,0.6275871992111206,11.963712692260742,21.35835838317871,30.390623092651367,neutral,Would I take a deep breath and I feel calm?,joy,neutral,INCONGRUENCIA,False
+20,0.10972681641578674,5.041448503106949e-07,0.03874628618359566,2.5966553688049316,0.11016961187124252,0.1598631888628006,96.98483276367188,neutral,Would I take a deep breath and I feel calm?,joy,neutral,INCONGRUENCIA,False
+21,52.50328063964844,0.5184821486473083,23.7996826171875,15.581924438476562,6.124763488769531,0.3217097520828247,1.1501479148864746,neutral,Would I take a deep breath and I feel calm?,joy,angry,INCONGRUENCIA,False
+22,18.809688568115234,0.06369660794734955,21.59070587158203,12.88422966003418,3.1913540363311768,9.364048957824707,34.096275329589844,neutral,"Now I feel confident again, thank you for listening.",joy,neutral,INCONGRUENCIA,False
+23,1.114329218864441,3.487970388960093e-05,0.09203597903251648,4.864854335784912,0.859221875667572,1.6857690811157227,91.38375091552734,neutral,"Now I feel confident again, thank you for listening.",joy,neutral,INCONGRUENCIA,False
+24,0.7893067598342896,0.12696242332458496,11.03740406036377,70.54882049560547,6.50569486618042,0.16688555479049683,10.824921607971191,neutral,"Now I feel confident again, thank you for listening.",joy,happy,INCONGRUENCIA,False
+25,2.7842841148376465,0.0003042877360712737,0.7078478336334229,9.236702919006348,0.6858580708503723,35.8944091796875,50.69059371948242,neutral,"Now I feel confident again, thank you for listening.",joy,neutral,INCONGRUENCIA,False
+26,11.06987190246582,1.0192822217941284,17.106534957885742,8.54866886138916,17.332475662231445,0.0596868060529232,44.863487243652344,neutral,[Silencio],neutral,neutral,No aplicable,False
