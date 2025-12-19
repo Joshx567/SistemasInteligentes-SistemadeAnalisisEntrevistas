@@ -20,6 +20,39 @@ El sistema genera un **Reporte de Congruencia** que detecta discrepancias entre 
 | **Temporal** | `Pandas Rolling Window` | Análisis de series temporales y suavizado |
 | **Gráficos** | `Matplotlib` / `Seaborn` | Visualización de incongruencias |
 
+## 🧠 Arquitectura del Sistema
+
+### Módulos principales
+- **media_processor**  
+  Extrae audio y frames (1 fps) desde los videos.
+
+- **vision_module**  
+  Detecta emociones faciales frame por frame usando DeepFace.
+
+- **audio_module**  
+  Transcribe audio con Whisper y clasifica emociones del texto usando Transformers.
+
+- **analysis_core**  
+  Sincroniza audio y video, calcula congruencia emocional, detecta cambios emocionales y genera insights.
+
+- **main.py**  
+  Orquesta el pipeline completo end-to-end.
+
+---
+
+## 🎥 Dataset de Validación
+- 3–5 videos propios grabados por el equipo
+- Duración aproximada: 30–60 segundos
+- Ubicación: `data/raw_videos/dia3/`
+
+---
+
+## 🛠 Requisitos
+
+- Sistema Operativo: Windows 10/11 (64-bit)
+- Python 3.9 (64-bit)
+- FFmpeg (configurado en PATH)
+
 ## 🚀 Instalación y Configuración
 
 ### Prerrequisitos
@@ -34,10 +67,58 @@ El sistema genera un **Reporte de Congruencia** que detecta discrepancias entre 
 4. Verificar en terminal: `ffmpeg -version`.
 
 ### Paso 2: Instalación del Entorno
-```bash
+
 # 1. Crear entorno virtual
 python -m venv venv
 .\venv\Scripts\Activate.ps1
 
 # 2. Instalar dependencias
 pip install -r requirements.txt
+
+### Dependencias principales
+tensorflow-cpu==2.13.0
+deepface
+moviepy
+opencv-python
+pandas
+scipy
+openpyxl
+transformers
+whisper
+tf-keras
+
+yaml
+---
+
+## ⚙️ Instalación
+python -m venv venv
+venv\Scripts\activate
+pip install --upgrade pip
+pip install -r requirements.txt
+
+
+## 📊 Salidas del Sistema
+Para cada video se generan:
+
+- Reporte CSV (`report_day4_<video>.csv`)
+- Reporte JSON (`report_day4_<video>.json`)
+
+Campos principales:
+- segundo
+- emocion_facial
+- emocion_texto
+- transcripcion
+- congruencia
+- cambio_emocional
+
+---
+
+## Ejecución
+
+python main.py
+
+# Video Demostración
+
+📁 data/demo/video_demo.mp4
+Duración: 3–5 minutos
+Incluye explicación del sistema, ejecución y análisis de resultados.

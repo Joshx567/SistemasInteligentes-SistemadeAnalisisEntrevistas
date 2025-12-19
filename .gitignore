@@ -7,3 +7,11 @@ __pycache__/
 *.zip
 *.exe
 *.dll
+
+# Datos pesados
+data/demo/
+data/processed_frames/
+data/processed_audio/
+
+# Multimedia
+*.mp4

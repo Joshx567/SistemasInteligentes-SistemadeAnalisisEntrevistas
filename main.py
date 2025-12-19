@@ -90,8 +90,8 @@ def main():
         logging.info(f"Insights: {insights}")
 
         # ---------------- SALIDAS ----------------
-        csv_path = os.path.join(OUTPUT_DIR, f"report_day4_{video_name}.csv")
-        json_path = os.path.join(OUTPUT_DIR, f"report_day4_{video_name}.json")
+        csv_path = os.path.join(OUTPUT_DIR, f"report_day5_{video_name}.csv")
+        json_path = os.path.join(OUTPUT_DIR, f"report_day5_{video_name}.json")
 
         final_report.to_csv(csv_path, index=False)
         final_report.to_json(json_path, orient="records", indent=2)
