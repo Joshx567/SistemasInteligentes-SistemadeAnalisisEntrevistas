@@ -116,3 +116,27 @@ def generate_insights(df):
         insights.append("Patrón emocional estable")
 
     return insights
+
+def apply_temporal_smoothing(df, window_size=3):
+    """
+    Simula el comportamiento de una red recurrente (memoria a corto plazo)
+    usando una ventana móvil para suavizar cambios bruscos de emoción.
+    Cumple el requisito de Análisis de Series Temporales.
+    """
+    # Convertir emociones a códigos numéricos para poder 'suavizarlas'
+    emotion_codes = {
+        'neutral': 0, 'happy': 1, 'sad': 2, 'angry': 3, 
+        'fear': 4, 'surprise': 5, 'disgust': 6
+    }
+    reverse_codes = {v: k for k, v in emotion_codes.items()}
+    
+    # Mapear
+    df['video_code'] = df['emocion_facial'].map(emotion_codes).fillna(0)
+    
+    #Elimina el ruido de un frame suelto que detecta mal
+    df['emocion_suavizada'] = df['video_code'].rolling(window=window_size, min_periods=1).apply(lambda x: pd.Series(x).mode()[0])
+    
+    # Devolver a texto
+    df['emocion_facial_temporal'] = df['emocion_suavizada'].map(reverse_codes)
+    
+    return df
