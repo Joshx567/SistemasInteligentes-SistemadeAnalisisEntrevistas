@@ -9,7 +9,7 @@ __pycache__/
 *.dll
 
 # Datos pesados
-data/demo/
+data/demo/19 (1).mp4
 data/processed_frames/
 data/processed_audio/
 
