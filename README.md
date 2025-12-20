@@ -17,7 +17,7 @@ El sistema genera un **Reporte de Congruencia** que detecta discrepancias entre 
 | **Visión** | `DeepFace` (Wrapper TensorFlow) | Extracción de emociones (FER-2013) |
 | **Audio** | `OpenAI Whisper` (Base) | ASR (Speech to Text) |
 | **NLP** | `Transformers` (DistilRoBERTa) | Clasificación de emociones en texto |
-| **Temporal** | `Pandas Rolling Window` | Análisis de series temporales y suavizado |
+| **Temporal** | `LSTM de TensorFlow` | Análisis de series temporales y suavizado |
 | **Gráficos** | `Matplotlib` / `Seaborn` | Visualización de incongruencias |
 
 ## 🧠 Arquitectura del Sistema
@@ -34,6 +34,9 @@ El sistema genera un **Reporte de Congruencia** que detecta discrepancias entre 
 
 - **analysis_core**  
   Sincroniza audio y video, calcula congruencia emocional, detecta cambios emocionales y genera insights.
+
+- **lstm_model**  
+  Modelo LSTM para analisis temporal de emociones.
 
 - **main.py**  
   Orquesta el pipeline completo end-to-end.
@@ -58,12 +61,12 @@ El sistema genera un **Reporte de Congruencia** que detecta discrepancias entre 
 ### Prerrequisitos
 *   Windows 10/11 (64-bit)
 *   Python 3.9+
-*   **FFmpeg** (Esencial para procesamiento de audio)
+*   **ffmpeg** (Esencial para procesamiento de audio)
 
 ### Paso 1: Configurar FFmpeg
 1. Descargar [FFmpeg Builds](https://github.com/BtbN/FFmpeg-Builds/releases).
-2. Extraer en `C:\FFmpeg`.
-3. Agregar `C:\FFmpeg\bin` a las Variables de Entorno (PATH).
+2. Extraer en `C:\ffmpeg`.
+3. Agregar `C:\ffmpeg\bin` a las Variables de Entorno (PATH).
 4. Verificar en terminal: `ffmpeg -version`.
 
 ### Paso 2: Instalación del Entorno
@@ -119,6 +122,6 @@ python main.py
 
 # Video Demostración
 
-📁 data/demo/video_demo.mp4
-Duración: 3–5 minutos
+https://www.youtube.com/watch?v=QdDGvK2JHYI   
+
 Incluye explicación del sistema, ejecución y análisis de resultados.
